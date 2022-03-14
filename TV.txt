@@ -1,4 +1,4 @@
-cctv,#genre#
+cctv,##EXTM3U
 #EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c68d2b19b.jpg",CCTV1 50FPS
 http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/1.m3u8
 #EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",CCTV2 50FPS
