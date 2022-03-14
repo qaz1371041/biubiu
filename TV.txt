@@ -139,6 +139,8 @@ CCTV世界地理,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 十堰新闻,http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
 十堰公共,http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
 十堰经济,http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8
+香港中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+香港中文台,http://iptv.tvfix.org/hls/fhzw.m3u8
 
 
 日本,#genre#
