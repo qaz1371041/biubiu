@@ -147,6 +147,8 @@ CCTV世界地理,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 松視3,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 潘多拉,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
 潘多拉玩美,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+潘朵啦高画质粉色台,rtmp://125.227.196.250:1935/live/PandoraPink
+潘朵啦高画质玩美台,rtmp://125.227.196.250:1935/live/PandoraPlays
 大合集,https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
 做爱输入,rtmp://202.39.64.234:1938/live/949
 大学援交妹,rtmp://202.39.64.234:1937/live/966
@@ -165,6 +167,7 @@ LOOK HD,rtmp://118.163.221.79:1936/live/LookHD
 做爱特别班,rtmp://202.39.64.234:1935/live/960
 VENUS,rtmp://202.39.64.234:1935/live/957
 性爱教主,rtmp://202.39.64.234:1935/live/963
+成人电影台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
 
 
 麻豆电影,#genre#
