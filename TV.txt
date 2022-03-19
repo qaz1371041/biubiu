@@ -123,7 +123,6 @@ CCTV第一剧场,http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8
 CCTV第一剧场,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
 CCTV风云剧场,http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
 CCTV风云剧场,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
-CCTV风云剧场,
 CCTV世界地理,http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
 CCTV世界地理,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231537/index.m3u8
 CCTV世界地理,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
@@ -143,35 +142,9 @@ CCTV世界地理,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 香港中文台,http://iptv.tvfix.org/hls/fhzw.m3u8
 
 
-日本,#genre#
-松視2,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-松視3,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-潘多拉,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-潘多拉玩美,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-潘朵啦高画质粉色台,rtmp://125.227.196.250:1935/live/PandoraPink
-潘朵啦高画质玩美台,rtmp://125.227.196.250:1935/live/PandoraPlays
-大合集,https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
-做爱输入,rtmp://202.39.64.234:1938/live/949
-大学援交妹,rtmp://202.39.64.234:1937/live/966
-樱桃,rtmp://202.39.64.234:1937/live/947
-午夜蓝,rtmp://202.39.64.234:1937/live/945
-KMP,rtmp://202.39.64.234:1937/live/942
-花花公子,rtmp://202.39.64.234:1937/live/943
-彩虹通道,rtmp://202.39.64.234:1937/live/944
-近亲相奸,rtmp://202.39.64.234:1937/live/967
-水多多,rtmp://202.39.64.234:1936/live/968
-人妻不伦,rtmp://202.39.64.234:1936/live/636
-AV女王,rtmp://202.39.64.234:1936/live/964
-LOOK HD,rtmp://118.163.221.79:1936/live/LookHD
-彩虹电影,rtmp://118.163.221.79:1936/live/RainbowE
-香草天道,rtmp://202.39.64.234:1935/live/958
-做爱特别班,rtmp://202.39.64.234:1935/live/960
-VENUS,rtmp://202.39.64.234:1935/live/957
-性爱教主,rtmp://202.39.64.234:1935/live/963
-成人电影台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
-
 
 麻豆电影,#genre#
+大合集,https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
 叫鸡叫到表姐-李蓉蓉,https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
 鲍鱼游戏-孟若羽,https://zo392.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
 肉感精油SPA-酒井爱,https://10j99.cdnedge.live/file/avple-images/hls/6219e9c6b9e8e9119a2f1fe8/playlist.m3u8
@@ -301,37 +274,36 @@ DYTM008抖音旅行射射第8期贵州侗族民族风[1280*720],https://t11.cdn2
 少年阿宾第二季篇章五寒假开始[1280*720],https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/8ce1afc0/index.m3u8
 
 
-爱系频道♠,#genre#
-爱世界,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
-爱解密,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
-爱猎奇,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
-爱幼教,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
-爱军武,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
-爱科学,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
-爱历史,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
-爱时尚,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
-爱娱乐,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
-爱美食,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
-爱谍战,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-爱经典,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
-爱探索,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
-爱体育,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
-爱动漫,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
-爱奇谈,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
-爱怀旧,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
-爱旅行,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
-爱赛车,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
-爱电竞,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=3&channel-id=wasusyt
-爱玩具,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
-爱悬疑,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
-爱浪漫,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
-爱江湖,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
-爱青春,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
-爱家庭,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
-爱都市,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
-爱喜剧,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
-爱科幻,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
-爱院线,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
+爱奇艺,#genre#
+郭德纲相声,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_111_600_t10/c51_lb_111_600_t10.m3u8
+小品相声,http://hlstct.douyucdn2.cn/dyliveflv3a/9067836rWSwWtNDI.m3u8?txSecret=5d06d8c29c2a2ca16107b07a42078660&txTime=6235e167&token=cpn-androidmpro-0-9067836-6c36adeb5df8fe8a35be773938fd0ca3&did=10000000000000000000000000001501&origin=tct&vhost=play4
+经典小品,http://hlstct.douyucdn2.cn/dyliveflv3/9322175rAkkPA37n.m3u8?txSecret=4d4012b1785637d826af772481fb049c&txTime=6235e24d&token=cpn-androidmpro-0-9322175-3a5672cd4380ebe8cade57980ee5ba3d&did=10000000000000000000000000001501&origin=tct&vhost=play3
+国剧修复,http://bdcdncmn3.inter.71edge.com/tslive/c53_lb_77_1080P_t10/c53_lb_77_1080P_t10.m3u8
+金典记实,http://bdcdncmn3.inter.71edge.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8
+医院故事,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_122_600_t10/c51_lb_122_600_t10.m3u8
+老年剧场,http://bdcdncmn3.inter.71edge.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
+特种兵,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_124_1080P_t10/c51_lb_124_1080P_t10.m3u8
+票房收割机,http://bdcdncmn3.inter.71edge.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+华语院线,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_114_1080P_t10/c51_lb_114_1080P_t10.m3u8
+周末影院,http://bdcdncmn3.inter.71edge.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
+动作电影,http://bdcdncmn3.inter.71edge.com/tslive/c52_lb_61_1080P_t10/c52_lb_61_1080P_t10.m3u8
+金典港片,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+电影大片,http://bdcdncmn3.inter.71edge.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+全家福,http://bdcdncmn3.inter.71edge.com/tslive/c52_lb_68_1080P_t10/c52_lb_68_1080P_t10.m3u8
+仙侠玄幻,http://bdcdncmn3.inter.71edge.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
+朱亚文,http://bdcdncmn3.inter.71edge.com/tslive/c54_lb_138_600_t10/c54_lb_138_600_t10.m3u8
+金典重温,http://bdcdncmn3.inter.71edge.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8
+历史密闻,http://bdcdncmn3.inter.71edge.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
+激情燃烧的岁月,http://bdcdncmn3.inter.71edge.com/tslive/c53_lb_71_1080P_t10/c53_lb_71_1080P_t10.m3u8
+豆瓣高分,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_112_1080P_t10/c51_lb_112_1080P_t10.m3u8
+神探狄仁杰,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_121_1080P_t10/c51_lb_121_1080P_t10.m3u8
+热播电视剧,http://bdcdncmn3.inter.71edge.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
+抗战剧场,http://bdcdncmn3.inter.71edge.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
+军旅剧场,http://bdcdncmn3.inter.71edge.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8
+老剧修复,http://bdcdncmn3.inter.71edge.com/tslive/c52_lb_92_720P_t10/c52_lb_92_720P_t10.m3u8
+埋堆堆,http://hw.flv.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8?wsSecret=53bbf9a048f147023ba121919222d82e&wsTime=6235c529&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&seqid=1
+埋堆堆A,http://hw.flv.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.m3u8?wsSecret=b113269dd3b8b23d4880b526744eaf65&wsTime=6235c532&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&seqid=1
+
 NewTV超级电视剧,http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8
 NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
 NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
@@ -364,10 +336,5 @@ CHC动作,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-经典小品,http://hlstct.douyucdn2.cn/dyliveflv3/9322175rAkkPA37n.m3u8?txSecret=9c68a2dc176d827ec8d40edc22c4048c&txTime=622f3785&token=cpn-androidmpro-0-9322175-662c4574ea5dac5e6fd40ef83d175a5f&did=10000000000000000000000000001501&origin=tct&vhost=play3
-小品相声,http://hlstct.douyucdn2.cn/dyliveflv3a/9067836rWSwWtNDI.m3u8?txSecret=7bf9f730d7adb75d00965e55a557e29f&txTime=622f3849&token=cpn-androidmpro-0-9067836-fc36f3dcc6ce811e2ae2b6e5aa8a695f&did=10000000000000000000000000001501&origin=tct&vhost=play4
-哔哩哔哩影音,https://d1--ov-gotcha105.bilivideo.com/live-bvc/444080/live_416544064_58389145_1500.m3u8?cdn=ov-gotcha05&expires=1647257930&len=0&oi=2863848282&pt=h5&qn=150&trid=1003ae2a1829ee854ca89d47a9b9ec4faa4d&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=7cf01a76c82af2cd14d399030f02d97d&ptype=0&src=57349&sl=2&sk=2935686d6cb9146c7a6a6a0b4e120e2594e074fa0760377f1a7a2b2fa0ee6443&order=1
-
-
 
 
