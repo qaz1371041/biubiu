@@ -504,7 +504,6 @@ Look TV,rtmp://118.163.221.79:1936/live/LookHD
 
 
 公司電話,#genre#
-成人點播頻道_0970117708,#genre#
 叫雞叫到表姐-李蓉蓉,https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
 鮑魚游戲-孟若羽,https://zo392.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
 肉感精油SPA-酒井愛,https://10j99.cdnedge.live/file/avple-images/hls/6219e9c6b9e8e9119a2f1fe8/playlist.m3u8
