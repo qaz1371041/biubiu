@@ -448,46 +448,6 @@ SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 惊悚悬疑FHD,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225717/index.m3u8
 黑莓电影FHD,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225718/index.m3u8
 爱情喜剧FHD,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225748/index.m3u8
-
-
-📡NBA高清咕体育,#genre#
-ONE 4K,http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/75002.ts
 NBATV,https://d32ofcf96e94i8.cloudfront.net/hls/nbatv/chunks.m3u8
-ESPN,https://d32ofcf96e94i8.cloudfront.net/hls/espn/chunks.m3u8
-TNT,https://d32ofcf96e94i8.cloudfront.net/hls/TNT/chunks.m3u8
-TSN,https://d32ofcf96e94i8.cloudfront.net/hls/tsn/chunks.m3u8
-ABC,https://d32ofcf96e94i8.cloudfront.net/hls/abc/chunks.m3u8
-凯尔特人,https://d32ofcf96e94i8.cloudfront.net/hls/celtics/chunks.m3u8
-尼克斯,https://d32ofcf96e94i8.cloudfront.net/hls/knicks/chunks.m3u8
-勇士,https://d32ofcf96e94i8.cloudfront.net/hls/warriors/chunks.m3u8
-奇才,https://d32ofcf96e94i8.cloudfront.net/hls/wizards/chunks.m3u8
-骑士,https://d32ofcf96e94i8.cloudfront.net/hls/cavaliers/chunks.m3u8
-灰熊,https://d32ofcf96e94i8.cloudfront.net/hls/grizzlies/chunks.m3u8
-快船,https://d32ofcf96e94i8.cloudfront.net/hls/clippers/chunks.m3u8
-老鹰,https://d32ofcf96e94i8.cloudfront.net/hls/hawks/chunks.m3u8
-魔术,https://d32ofcf96e94i8.cloudfront.net/hls/magic/chunks.m3u8
-热火,https://d32ofcf96e94i8.cloudfront.net/hls/heat/chunks.m3u8
-独行侠,https://d32ofcf96e94i8.cloudfront.net/hls/mavericks/chunks.m3u8
-马刺,https://d32ofcf96e94i8.cloudfront.net/hls/spurs/chunks.m3u8
-湖人,https://d32ofcf96e94i8.cloudfront.net/hls/lakers/chunks.m3u8
-鹈鹕,https://d32ofcf96e94i8.cloudfront.net/hls/pelicans/chunks.m3u8
-黄蜂,https://d32ofcf96e94i8.cloudfront.net/hls/hornets/chunks.m3u8
-76人,https://d32ofcf96e94i8.cloudfront.net/hls/76ers/chunks.m3u8
-篮网,https://d32ofcf96e94i8.cloudfront.net/hls/nets/chunks.m3u8
-公牛,https://d32ofcf96e94i8.cloudfront.net/hls/bulls/chunks.m3u8
-步行者,https://d32ofcf96e94i8.cloudfront.net/hls/pacers/chunks.m3u8
-雄鹿,https://d32ofcf96e94i8.cloudfront.net/hls/bucks/chunks.m3u8
-开拓者,https://d32ofcf96e94i8.cloudfront.net/hls/blazers/chunks.m3u8
-猛龙,https://d32ofcf96e94i8.cloudfront.net/hls/raptors/chunks.m3u8
-雷霆,https://d32ofcf96e94i8.cloudfront.net/hls/thunder/chunks.m3u8
-太阳,https://d32ofcf96e94i8.cloudfront.net/hls/suns/chunks.m3u8
-爵士,https://d32ofcf96e94i8.cloudfront.net/hls/jazz/chunks.m3u8
-掘金,https://d32ofcf96e94i8.cloudfront.net/hls/nuggets/chunks.m3u8
-国王,https://d32ofcf96e94i8.cloudfront.net/hls/kings/chunks.m3u8
-活塞,https://d32ofcf96e94i8.cloudfront.net/hls/pistons/chunks.m3u8
-火箭,https://dqm8bvwrahfi8.cloudfront.net/hls/rockets/chunks.m3u8
-森林狼,https://d32ofcf96e94i8.cloudfront.net/hls/timberwolves/chunks.m3u8
-
-
 
 
