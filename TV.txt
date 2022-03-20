@@ -628,7 +628,6 @@ CNC新华中文台,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC新华中文台,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 CCTV17-农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8#http://42.81.144.99/live.cache.cmvideo.cn/migu/kailu/20200324/cctv17hd/51/index.m3u8?&encrypt=1
 
-📡天津联通,#genre#
 CCTV16,http://117.148.179.157/PLTV/88888888/224/3221233406/index.m3u8
 CCTV16,http://117.148.179.157/PLTV/88888888/224/3221233442/index.m3u8
 CCTV16,http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
