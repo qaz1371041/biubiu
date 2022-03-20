@@ -21,7 +21,6 @@ CCTV-3,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/400
 CCTV-3,http://117.148.179.183/TVOD/88888888/224/3221231682/index.m3u8
 CCTV-3,http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
 CCTV-3,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
-CCTV-4,http://39.130.202.76:6610/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
 CCTV-4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 CCTV-4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 CCTV-5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
@@ -273,8 +272,6 @@ DYTM008抖音旅行射射第8期贵州侗族民族风[1280*720],https://t11.cdn2
 
 爱奇艺,#genre#
 郭德纲相声,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_111_600_t10/c51_lb_111_600_t10.m3u8
-小品相声,http://hlstct.douyucdn2.cn/dyliveflv3a/9067836rWSwWtNDI.m3u8?txSecret=5d06d8c29c2a2ca16107b07a42078660&txTime=6235e167&token=cpn-androidmpro-0-9067836-6c36adeb5df8fe8a35be773938fd0ca3&did=10000000000000000000000000001501&origin=tct&vhost=play4
-经典小品,http://hlstct.douyucdn2.cn/dyliveflv3/9322175rAkkPA37n.m3u8?txSecret=4d4012b1785637d826af772481fb049c&txTime=6235e24d&token=cpn-androidmpro-0-9322175-3a5672cd4380ebe8cade57980ee5ba3d&did=10000000000000000000000000001501&origin=tct&vhost=play3
 国剧修复,http://bdcdncmn3.inter.71edge.com/tslive/c53_lb_77_1080P_t10/c53_lb_77_1080P_t10.m3u8
 金典记实,http://bdcdncmn3.inter.71edge.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8
 医院故事,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_122_600_t10/c51_lb_122_600_t10.m3u8
@@ -322,7 +319,6 @@ NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 影院HD1,http://117.148.179.157/PLTV/88888888/224/3221231757/index.m3u8
 影院HD2,http://117.148.179.157/PLTV/88888888/224/3221231763/index.m3u8
 影院HD3,http://117.148.179.157/PLTV/88888888/224/3221231787/index.m3u8
-金马影院,https://pull.kktv8.com/livekktv/128600025/playlist.m3u8
 经典影视,https://tx.liveplay.live.kugou.com/live/fx_hifi_251702616_avc.m3u8
 玄幻影视,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 放映厅,http://hlsmgsplive.miguvideo.com:8080/wd-virtuallive5100030975-75/index.m3u8?msisdn=e617e2497d502bd75cbefd4a06087877&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20220314183135&Channel_ID=0131_10010001005&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=112.74.200.9&SecurityKey=20220314183135&mvid=5100030975&mcid=500020&mpid=&playurlVersion=SJ-A1-5.1.1.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=919d1393c5f4ec62897c2c4ea4b10371
