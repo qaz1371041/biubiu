@@ -271,6 +271,7 @@ DYTM008抖音旅行射射第8期贵州侗族民族风[1280*720],https://t11.cdn2
 
 爱奇艺,#genre#
 郭德纲相声,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_111_600_t10/c51_lb_111_600_t10.m3u8
+经典小品,http://hlstct.douyucdn2.cn/dyliveflv3/9322175rAkkPA37n.m3u8?txSecret=c0da18640fe6d017514ae29dcaf4549e&txTime=6236e97a&token=cpn-androidmpro-0-9322175-bf0c62a9412dc009ccbb6d8128beb5b1&did=10000000000000000000000000001501&origin=tct&vhost=play3
 国剧修复,http://bdcdncmn3.inter.71edge.com/tslive/c53_lb_77_1080P_t10/c53_lb_77_1080P_t10.m3u8
 金典记实,http://bdcdncmn3.inter.71edge.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8
 医院故事,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_122_600_t10/c51_lb_122_600_t10.m3u8
