@@ -452,5 +452,4 @@ SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 NBATV,https://d32ofcf96e94i8.cloudfront.net/hls/nbatv/chunks.m3u8
 
 
-s,#genre#
-彩虹台,rtmp://125.227.196.250:1935/live/Rainbowmovie
+
