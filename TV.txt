@@ -451,6 +451,7 @@ SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 爱情喜剧FHD,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225748/index.m3u8
 NBATV,https://d32ofcf96e94i8.cloudfront.net/hls/nbatv/chunks.m3u8
 
+
 轮播，#流派#
 李连杰,http://tv.rdys888.top/bak/proxy/youku.php?id=8021912
 周星驰,http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
@@ -468,10 +469,14 @@ NBATV,https://d32ofcf96e94i8.cloudfront.net/hls/nbatv/chunks.m3u8
 佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 兴绍影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+
+
 体育,#流派#
 吉林篮球,http://223.110.242.133:6610/gitv/live1/G_LANQIU/G_LANQIU/
 HWF散打，http://pull-g.kktv8.com/livekktv/57588147.flv
 数码时代高清，http://yd-ml.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+
 剧集,#流派#
 生活大爆炸_虎牙，HTTP：//txdirect.flv.huya.com/huyalive/1099531752754-1099531752754-86436122342719488-2199063628964-10057-A-0-1.flv wsSecret = ef64c497de3bc2edde82cef269d20761＆wsTime = 610fc9d6＆uid = 0的＆SEQID = 16283382307833992＆CTYPE = tars_mobile＆版本= 1&t=103
 我是大哥大_虎牙，HTTP：//txdirect.flv.huya.com/huyalive/1199560287662-1199560287662-5430608523677401088-2399120698780-10057-A-0-1.flv wsSecret = aeb1c6228a7b64e9db61a800ebdb7ac9＆wsTime = 610fc9d6＆uid = 0的＆SEQID = 16283382312359088＆CTYPE = tars_mobile＆版本=1&t=103
@@ -483,6 +488,8 @@ HWF散打，http://pull-g.kktv8.com/livekktv/57588147.flv
 仙剑奇侠传3_斗鱼,http://dyscdnali1.douyucdn.cn/live/7270927reXZEug2P.flv?uuid=
 少年包青天_虎牙，HTTP：//tx.flv.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1-imgplus.flv wsSecret = e780a9e80631696512875611426b1ed7＆wsTime = 610fc9e5＆uid = 0的＆SEQID = 16283382539882048＆CTYPE = tars_mobile&ver=1&t=103
 神医喜来乐_虎牙，HTTP：//tx.flv.huya.com/huyalive/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.flv wsSecret = 8115a96b2cbb9034460e83d574a37d99＆wsTime = 610fc9eb＆uid = 0的＆SEQID = 16283382547930524＆CTYPE = tars_mobile＆版本= 1&t=103
+
+
 电影,#流派#
 电影1_斗鱼,http://dyscdnali1.douyucdn.cn/live/52787r8ZChaEsamQ.flv?uuid=
 电影2_斗鱼,http://dyscdnali1.douyucdn.cn/live/7254536riuyQHxAL.flv?uuid=
@@ -504,6 +511,8 @@ HWF散打，http://pull-g.kktv8.com/livekktv/57588147.flv
 港片女神_虎牙，HTTP：//tx.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.flv wsSecret = 1b3310079c33269478f4dbca0154932c＆wsTime = 610fca0d＆uid = 0的＆SEQID = 16283382862204492＆CTYPE = tars_mobile＆版本= 1&t=103
 电影2_永久,http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=b07b24f4db52117d9fea1faa401b4cd4&txTime=61173145
 凌晨恐怖_5,http://394-out.liveplay.myqcloud.com/live/3954_363783415.flv?bizid=3954&txSecret=d1b00152646542532515837b57c15640&txTime=6117328f
+
+
 动漫,#流派#
 茶啊二中_虎牙，HTTP：//txdirect.flv.huya.com/huyalive/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.flv wsSecret = 165bd67af60009b2bb4bb39f35062005＆wsTime = 610fc9ca＆uid = 0的＆SEQID = 16283382322856384＆CTYPE = tars_mobile＆版本=1&t=103
 猫和老鼠1_斗鱼,http://scdnali1.douyucdn.cn/live/7528160rXCwPshQQ.flv?uuid=
@@ -521,6 +530,8 @@ HWF散打，http://pull-g.kktv8.com/livekktv/57588147.flv
 五福星系列_虎牙，HTTP：//tx.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.flv wsSecret = a6be4bb3447ac30130cae26975f5b4fd＆wsTime = 610fc9c6＆uid = 0的＆SEQID = 16283382405083448＆CTYPE = tars_mobile＆版本= 1&t=103
 沉腾_虎牙，HTTP：//tx.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.flv wsSecret = 0ea19d753bc1ec7d15155f1ce0657e5d＆wsTime = 610fc9d4＆uid = 0的＆SEQID = 16283382409885772＆CTYPE = tars_mobile＆版本=1&t=103
 徐峥_虎牙，HTTP：//txdirect.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.flv wsSecret = 9fbb3fa2223a946aa83ee07dcdc7370a＆wsTime = 610fc9d3＆uid = 0的＆SEQID = 16283382412064094＆CTYPE = tars_mobile＆版本= 1＆T = 103
+
+
 喜剧,#流派#
 炊事班的故事_虎牙，HTTP：//tx.flv.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.flv wsSecret = b8b13cc9c3f3d3654c17cb47caff03d1＆wsTime = 610fc9d3＆uid = 0的＆SEQID = 16283382401104088＆CTYPE = tars_mobile＆版本=1&t=103
 地下交通站3_斗鱼,http://dyscdnali1.douyucdn.cn/live/299854rSf5j0y8Uf.flv?uuid=
@@ -529,6 +540,8 @@ HWF散打，http://pull-g.kktv8.com/livekktv/57588147.flv
 家有儿女_虎牙，HTTP：//tx.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.flv wsSecret = 216a3a0a3c3074f7afc38d6583ed4c94＆wsTime = 610fc9f4＆uid = 0的＆SEQID = 16283382607331776＆CTYPE = tars_mobile＆版本= 1&t=103
 家有儿女3_斗鱼,http://dyscdnali1.douyucdn.cn/live/6648727rufz9EgZB.flv?uuid=
 武林外传_虎牙，HTTP：//tx.flv.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.flv wsSecret = 8e7c56d8f87be29fc929430ea6ef446e＆wsTime = 610fc9e3＆uid = 0的＆SEQID = 16283382639758592＆CTYPE = tars_mobile＆版本=1&t=103
+
+
 其他,#流派#
 相声小品1_虎牙，HTTP：//tx.flv.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.flv wsSecret = a1e2b7545a0703b2f05fe9421363b8e9＆wsTime = 610fc9d9＆uid = 0的＆SEQID = 16283382379515396＆CTYPE = tars_mobile＆版本= 1&t=103
 奥雷解说_斗鱼,http://dyscdnali1.douyucdn.cn/live/1224356rX5eJV8K8.flv?uuid=
@@ -557,6 +570,8 @@ HWF散打，http://pull-g.kktv8.com/livekktv/57588147.flv
 今晚80后脱口秀_虎牙，HTTP：//txdirect.flv.huya.com/huyalive/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.flv wsSecret = bd195e93f943f5510332c43d66eaa228＆wsTime = 610fc9d0＆uid = 0的＆SEQID = 16283382536419460＆CTYPE =tars_mobile&ver=1&t=103
 野食小哥_虎牙，HTTP：//txdirect.flv.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1.flv wsSecret = ba9a8224f03d87a356d40a71fc18705f＆wsTime = 610fc9ed＆uid = 0的＆SEQID = 16283382539951868＆CTYPE = tars_mobile＆版本= 1&t=103
 女团3_斗鱼,http://dyscdnali1.douyucdn.cn/live/231464ruiASM3G05.flv?uuid=
+
+
 斗鱼,#流派#
 斗鱼16，http://dyscdnali1.douyucdn.cn/live/323876reFBNcAGH9.flv?uuid=
 斗鱼2，http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
@@ -601,6 +616,8 @@ HWF散打，http://pull-g.kktv8.com/livekktv/57588147.flv
 斗鱼74,http://dyscdnali1.douyucdn.cn/live/7356023r3kY14SP1.flv?uuid=
 斗鱼59,http://dyscdnali1.douyucdn.cn/live/2164691ryT6DikSb.flv?uuid=
 斗鱼75,http://dyscdnali1.douyucdn.cn/live/6655271rxmF2Pias.flv?uuid=
+
+
 B站,#流派#
 B站16，https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/749935/live_456924462_14930225.m3u8
 B站68，https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/246398/live_523065517_16447191.m3u8
@@ -610,6 +627,8 @@ B站21，https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/324165/live_970651
 B站22，https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/957700/live_250188964_3487758.m3u8
 B站23，https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/353342/live_7981914_1286387.m3u8
 B站24，https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/967316/live_403636186_18251525.m3u8
+
+
 堆堆,#流派#
 埋堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8
 埋堆02,http://121.12.115.162/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8
