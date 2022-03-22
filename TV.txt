@@ -454,145 +454,18 @@ NBATV,https://d32ofcf96e94i8.cloudfront.net/hls/nbatv/chunks.m3u8
 
 ce,#genre#
 松视01,mitv://ns2.hellotvvod.com:9906/256cd356e2e7424aaef03b07170c0a7c.ts#mitv://51.81.90.178:9906/256cd356e2e7424aaef03b07170c0a7c.ts#mitv://860969650:9906/256cd356e2e7424aaef03b07170c0a7c.ts#p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1#p3p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140#p5p://192.240.110.203:16666/60ab2744000d91cc0e611b49573518f1
-松视02,        
-                mitv://ns2.hellotvvod.com:9906/7f2d5b6c6f8d46e0a72b45fe6eb31da6.ts #                        
-                mitv://51.81.90.178:9906/7f2d5b6c6f8d46e0a72b45fe6eb31da6.ts              
-                #           p5p://192.240.110.203:16666/60ab2759000359320e616ab455299cce            
-                #           p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f            
-              #             p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce              
-               #           p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b       
-             
-           松视03,             
-                       
-                mitv://ns2.hellotvvod.com:9906/b4a2c6e69da44f758254a311cabe3f1d.ts              
-                #mitv://860969650:9906/b4a2c6e69da44f758254a311cabe3f1d.ts              
-              #  p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e            
-              # https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv       
-             
-                  
-                  
-                               彩虹E台，           
-                          
-                mitv://ns2.hellotvvod.com:9906/5ec7ebdf20d3435986ee50b5e67209ba.ts              
-              #  p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e              
-               # p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8            
-               # p5p://192.240.110.203:16666/60ab271b0008823b0e6079d6366a0d7e            
-               # p5p://fccs.123178.top:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206  #          
-               mitv://51.81.90.178:9906/5ec7ebdf20d3435986ee50b5e67209ba.ts       
-             
-             彩虹电影，           
-                     
-                mitv://ns2.hellotvvod.com:9906/5846f10a1dca4e889226fbb813d269af.ts              
-              #  rtmp://118.163.221.79:1936/live/RainbowE            
-               # p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913            
-               # p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3            
-                #p5p://192.240.110.203:16666/60ab2705000438470e6022cd64274913#            
-               mitv://51.81.90.178:9906/5846f10a1dca4e889226fbb813d269af.ts       
-             
-           看高清，             
-                        
-                mitv://ns2.hellotvvod.com:9906/2c4f0eccccec4dfd8685055ee9f8e2a8.ts              
-               # rtmp://118.163.221.79:1936/live/LookHD            
-               # p5p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9            
-                p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts #           
-                mitv://51.81.90.178:9906/2c4f0eccccec4dfd8685055ee9f8e2a8.ts #             
-               mitv://860969650:9906/2c4f0eccccec4dfd8685055ee9f8e2a8.ts       
-             
-                  
-                  
-                             连接台，           
-                     
-                mitv://ns2.hellotvvod.com:9906/c9c7a5ab147f448588866523e8e6c178.ts #             
-                p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2#              
-                p3p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b #           
-                p5p://192.240.110.203:16666/60ab27790005917d0e61e8453f868fd2 #           
-                p5p://fccs.123178.top:9906/60fd2dbc0002e8d300ed4537251ee06d #           
-               mitv://51.81.90.178:9906/c9c7a5ab147f448588866523e8e6c178.ts       
-             
-               香蕉台，             
-                 
-                mitv://ns2.hellotvvod.com:9906/a6fef6e74b4f48d0bfe6342ec87575c0.ts #             
-                p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1#              
-                p3p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3 #           
-                p5p://192.240.110.203:16666/60ab2769000e40550e61abfe014de5b1 #           
-                mitv://51.81.90.178:9906/a6fef6e74b4f48d0bfe6342ec87575c0.ts  #            
-               mitv://860969650:9906/a6fef6e74b4f48d0bfe6342ec87575c0.ts       
-             
-                  
-                  
-                       潘朵啦粉色 ,    
-                        
-                 mitv://ns2.hellotvvod.com:9906/d2c2dcda43a847158de3be53e05f5fba.ts #           
-                 mitv://51.81.90.178:9906/d2c2dcda43a847158de3be53e05f5fba.ts #             
-                 p3p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6#            
-                 p3p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67 #           
-                 p5p://fccs.123178.top:9906/60fd2d970005922100ecb55d2f333764 #           
-                mitv://51.81.90.178:9906/d2c2dcda43a847158de3be53e05f5fba.ts       
-             
-                  
-                  
-                              潘朵啦玩美,           
-                         
-                mitv://ns2.hellotvvod.com:9906/b499545bfbde4e9a9db204191602309e.ts #             
-                p3p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1 #           
-                p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931#              
-                p5p://192.240.110.203:16666/60ab279b0002b9f90e626c5b4a6b3931#            
-                p5p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296 #           
-               https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv       
-             
-          JStar极限台 ,         
-                        
-                mitv://ns2.hellotvvod.com:9906/5a3618a3b5d0466fb70850317de5e907.ts#              
-                mitv://51.81.90.178:9906/5a3618a3b5d0466fb70850317de5e907.ts #             
-                mitv://860969650:9906/5a3618a3b5d0466fb70850317de5e907.ts #             
-                p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d#              
-               p5p://192.240.110.203:16666/60ab2789000ebe270e62291ec8b20e2d       
-             
-          热,             
-                       
-                mitv://ns2.hellotvvod.com:9906/e97014fbd6f74d2f97777c213d6392fa.ts #             
-                mitv://51.81.90.178:9906/e97014fbd6f74d2f97777c213d6392fa.ts #             
-                p5p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e #           
-                p3p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1 #           
-                p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571#            
-               p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts       
-             
-                  
-                  快乐 ,   
-                    
-                mitv://ns2.hellotvvod.com:9906/1269c71356f54b919d69c2f54f635a89.ts#              
-                mitv://51.81.90.178:9906/1269c71356f54b919d69c2f54f635a89.ts #             
-                mitv://860969650:9906/1269c71356f54b919d69c2f54f635a89.ts #             
-               p5p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b #      
-             
-                  
-                  
-       花花公子 ,            
-                        
-                mitv://ns2.hellotvvod.com:9906/5a627ba45e9542df8ec11d690d111ad0.ts #             
-                mitv://51.81.90.178:9906/5a627ba45e9542df8ec11d690d111ad0.ts#              
-                mitv://860969650:9906/5a627ba45e9542df8ec11d690d111ad0.ts#            
-               rtmp://202.39.64.234:1937/live/943      
-              
-                  
-                  
-              京彩,           
-                       
-                rtmp://202.39.64.234:1938/live/949 #           
-                rtmp://202.39.64.234:1937/live/944 #           
-                rtmp://202.39.64.234:1936/live/968#            
-                rtmp://202.39.64.234:1936/live/636#            
-                rtmp://202.39.64.234:1936/live/964#            
-                      rtmp://202.39.64.234:1935/live/535#       
-             
-                  
-                  
-                红松,          
-                       
-                http://api.hstv.me:8080/live/pi2021001/456321/360.m3u8 #           
-                http://api.hstv.me:8080/live/pi2021001/456321/361.m3u8#            
-                http://api.hstv.me:8080/live/pi2021001/456321/362.m3u8#            
-                http://api.hstv.me:8080/live/pi2021001/456321/363.m3u8 #           
-                http://api.hstv.me:8080/live/pi2021001/456321/364.m3u8 #           
-               http://api.hstv.me:8080/live/pi2021001/456321/365.m3u8#       
-
+松视02,mitv://ns2.hellotvvod.com:9906/7f2d5b6c6f8d46e0a72b45fe6eb31da6.ts# mitv://51.81.90.178:9906/7f2d5b6c6f8d46e0a72b45fe6eb31da6.ts#p5p://192.240.110.203:16666/60ab2759000359320e616ab455299cce #p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f#p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce#p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b  
+松视03,mitv://ns2.hellotvvod.com:9906/b4a2c6e69da44f758254a311cabe3f1d.ts#mitv://51.81.90.178:9906/b4a2c6e69da44f758254a311cabe3f1d.ts#mitv://860969650:9906/b4a2c6e69da44f758254a311cabe3f1d.ts#p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e#https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+彩虹E台,mitv://ns2.hellotvvod.com:9906/5ec7ebdf20d3435986ee50b5e67209ba.ts#p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e#p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8#p5p://192.240.110.203:16666/60ab271b0008823b0e6079d6366a0d7e#p5p://fccs.123178.top:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206#mitv://51.81.90.178:9906/5ec7ebdf20d3435986ee50b5e67209ba.ts
+彩虹电影,mitv://ns2.hellotvvod.com:9906/5846f10a1dca4e889226fbb813d269af.ts#rtmp://118.163.221.79:1936/live/RainbowE#p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913#p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3#p5p://192.240.110.203:16666/60ab2705000438470e6022cd64274913#mitv://51.81.90.178:9906/5846f10a1dca4e889226fbb813d269af.ts
+看高清,mitv://ns2.hellotvvod.com:9906/2c4f0eccccec4dfd8685055ee9f8e2a8.ts#rtmp://118.163.221.79:1936/live/LookHD#p5p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9#p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts#mitv://51.81.90.178:9906/2c4f0eccccec4dfd8685055ee9f8e2a8.ts#mitv://860969650:9906/2c4f0eccccec4dfd8685055ee9f8e2a8.ts
+连接台,mitv://ns2.hellotvvod.com:9906/c9c7a5ab147f448588866523e8e6c178.ts#p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2#p3p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b#p5p://192.240.110.203:16666/60ab27790005917d0e61e8453f868fd2#p5p://fccs.123178.top:9906/60fd2dbc0002e8d300ed4537251ee06d#mitv://51.81.90.178:9906/c9c7a5ab147f448588866523e8e6c178.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/a6fef6e74b4f48d0bfe6342ec87575c0.ts#p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1#p3p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3#p5p://192.240.110.203:16666/60ab2769000e40550e61abfe014de5b1#mitv://51.81.90.178:9906/a6fef6e74b4f48d0bfe6342ec87575c0.ts#mitv://860969650:9906/a6fef6e74b4f48d0bfe6342ec87575c0.ts
+潘朵啦粉色,mitv://ns2.hellotvvod.com:9906/d2c2dcda43a847158de3be53e05f5fba.ts#mitv://51.81.90.178:9906/d2c2dcda43a847158de3be53e05f5fba.ts#p3p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6#p3p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67#p5p://fccs.123178.top:9906/60fd2d970005922100ecb55d2f333764#mitv://51.81.90.178:9906/d2c2dcda43a847158de3be53e05f5fba.ts
+潘朵啦玩美,mitv://ns2.hellotvvod.com:9906/b499545bfbde4e9a9db204191602309e.ts#p3p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1#p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931#p5p://192.240.110.203:16666/60ab279b0002b9f90e626c5b4a6b3931#p5p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296#https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+JStar极限台,mitv://ns2.hellotvvod.com:9906/5a3618a3b5d0466fb70850317de5e907.ts#mitv://51.81.90.178:9906/5a3618a3b5d0466fb70850317de5e907.ts#mitv://860969650:9906/5a3618a3b5d0466fb70850317de5e907.ts#p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d#p5p://192.240.110.203:16666/60ab2789000ebe270e62291ec8b20e2d
+热,mitv://ns2.hellotvvod.com:9906/e97014fbd6f74d2f97777c213d6392fa.ts#mitv://51.81.90.178:9906/e97014fbd6f74d2f97777c213d6392fa.ts#p5p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e#p3p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1#p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571#p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts
+快乐,mitv://ns2.hellotvvod.com:9906/1269c71356f54b919d69c2f54f635a89.ts#mitv://51.81.90.178:9906/1269c71356f54b919d69c2f54f635a89.ts #mitv://860969650:9906/1269c71356f54b919d69c2f54f635a89.ts#p5p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+花花公子,mitv://ns2.hellotvvod.com:9906/5a627ba45e9542df8ec11d690d111ad0.ts#mitv://51.81.90.178:9906/5a627ba45e9542df8ec11d690d111ad0.ts#mitv://860969650:9906/5a627ba45e9542df8ec11d690d111ad0.ts#rtmp://202.39.64.234:1937/live/943
+京彩,rtmp://202.39.64.234:1938/live/949#rtmp://202.39.64.234:1937/live/944#rtmp://202.39.64.234:1936/live/968#rtmp://202.39.64.234:1936/live/636#rtmp://202.39.64.234:1936/live/964#rtmp://202.39.64.234:1935/live/535
+红松,http://api.hstv.me:8080/live/pi2021001/456321/360.m3u8#http://api.hstv.me:8080/live/pi2021001/456321/361.m3u8#http://api.hstv.me:8080/live/pi2021001/456321/362.m3u8#http://api.hstv.me:8080/live/pi2021001/456321/363.m3u8#http://api.hstv.me:8080/live/pi2021001/456321/364.m3u8#http://api.hstv.me:8080/live/pi2021001/456321/365.m3u8
