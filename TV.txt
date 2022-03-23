@@ -468,23 +468,23 @@ NBATV,https://d32ofcf96e94i8.cloudfront.net/hls/nbatv/chunks.m3u8
 
 
 优酷轮播,#genre#
-电影1，http://tv.rdys888.top/bak/proxy/youku.php?id=8022366
-电影2，http://tv.rdys888.top/bak/proxy/youku.php?id=8022040
-电影3，http://tv.rdys888.top/bak/proxy/youku.php?id=8022038
-电影4，http://tv.rdys888.top/bak/proxy/youku.php?id=8020381
-电影5，http://tv.rdys888.top/bak/proxy/youku.php?id=8020331
-电影8，http://tv.rdys888.top/bak/proxy/youku.php?id=8031706
-电影10，http://tv.rdys888.top/bak/proxy/youku.php?id=8031620
-电影11，http://tv.rdys888.top/bak/proxy/youku.php?id=8031623
-电影14，http://tv.rdys888.top/bak/proxy/youku.php?id=8031589
-电影15，http://tv.rdys888.top/bak/proxy/youku.php?id=8031587
-电影16，http://tv.rdys888.top/bak/proxy/youku.php?id=8031580
-电影17，http://tv.rdys888.top/bak/proxy/youku.php?id=8031574
-电影19，http://tv.rdys888.top/bak/proxy/youku.php?id=8027873
-电影22，http://tv.rdys888.top/bak/proxy/youku.php?id=8020409
-电影23，http://tv.rdys888.top/bak/proxy/youku.php?id=8020410
-电影24，http://tv.rdys888.top/bak/proxy/youku.php?id=8020408
-电影25，http://tv.rdys888.top/bak/proxy/youku.php?id=8035190
+电影1,http://tv.rdys888.top/bak/proxy/youku.php?id=8022366
+电影2,http://tv.rdys888.top/bak/proxy/youku.php?id=8022040
+电影3,http://tv.rdys888.top/bak/proxy/youku.php?id=8022038
+电影4,http://tv.rdys888.top/bak/proxy/youku.php?id=8020381
+电影5,http://tv.rdys888.top/bak/proxy/youku.php?id=8020331
+电影8,http://tv.rdys888.top/bak/proxy/youku.php?id=8031706
+电影10,http://tv.rdys888.top/bak/proxy/youku.php?id=8031620
+电影11,http://tv.rdys888.top/bak/proxy/youku.php?id=8031623
+电影14,http://tv.rdys888.top/bak/proxy/youku.php?id=8031589
+电影15,http://tv.rdys888.top/bak/proxy/youku.php?id=8031587
+电影16,http://tv.rdys888.top/bak/proxy/youku.php?id=8031580
+电影17,http://tv.rdys888.top/bak/proxy/youku.php?id=8031574
+电影19,http://tv.rdys888.top/bak/proxy/youku.php?id=8027873
+电影22,http://tv.rdys888.top/bak/proxy/youku.php?id=8020409
+电影23,http://tv.rdys888.top/bak/proxy/youku.php?id=8020410
+电影24,http://tv.rdys888.top/bak/proxy/youku.php?id=8020408
+电影25,http://tv.rdys888.top/bak/proxy/youku.php?id=8035190
 
 
 咪咕影院,#genre#
