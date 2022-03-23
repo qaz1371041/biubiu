@@ -130,9 +130,25 @@ CCTV世界地理,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
 湖北卫视,http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221227479/index.m3u8
 湖北卫视,http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+湖北卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225699/index.m3u8
+湖北卫视,http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
+湖北卫视,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
 十堰新闻,http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
 十堰公共,http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
 十堰经济,http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8
+十堰新闻,http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
+十堰新闻,http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8?
+十堰新闻,https://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
+十堰新闻,rtmp://r2bj.weizan.cn/v/351104_837056569960221505
+十 公共堰,http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
+十 公共堰,http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8?
+十 公共堰,https://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
+十 公共堰,rtmp://r2bj.weizan.cn/v/351104_694292401376336037
+十堰经济,http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8
+十堰经济,http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8?
+十堰经济旅游，https://p2bj.weizan.cn/351104/791122427715011838/live.m3u8
+十堰经济旅游,rtmp://r2bj.weizan.cn/v/351104_791122427715011838
 香港中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 香港中文台,http://iptv.tvfix.org/hls/fhzw.m3u8
 
@@ -452,7 +468,7 @@ SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 NBATV,https://d32ofcf96e94i8.cloudfront.net/hls/nbatv/chunks.m3u8
 
 
-埋堆,#流派#
+埋堆,#genre#
 埋堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8
 埋堆02,http://121.12.115.162/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8
 埋堆03,http://121.12.115.162/txdirect.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8
@@ -516,7 +532,7 @@ NBATV,https://d32ofcf96e94i8.cloudfront.net/hls/nbatv/chunks.m3u8
 埋堆67，http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8
 埋堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
-成人，#流派#
+成人，#genre#
 彩虹e台,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
 彩虹电影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
 看电视，mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
@@ -659,45 +675,4 @@ HIPLAY,P2p://fccs.ggboxtv.tw:9806/606947ae0006005b15dfe627af5a3968.ts
 美团外卖,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
 动遇奇遇nz，https://ckcd4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
 顺丰小哥，https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
-
-新电视，#流派#
-NewTV军旅剧场 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
-NewTV爱情喜剧[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
-NewTV爱情喜剧[1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226322/1.m3u8
-NewTV动作电影[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
-NewTV动作电影[1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226329/1.m3u8
-NewTV动作电影[1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226329/1.m3u8
-NewTV古装剧场 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225618/index.m3u8
-NewTV家庭剧场 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
-NewTV家庭剧场 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225630/index.m3u8
-新电视家庭剧场 [1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226330/1.m3u8
-NewTV精品大剧[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225612/index.m3u8
-新视精品大剧[1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226331/1.m3u8
-新视超级体育[1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8
-NewTV超级体育[1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226232/1.m3u8
-新视超级体育[1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8
-NewTV超级体育[1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8
-NewTV潮妈辣婆[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225680/index.m3u8
-NewTV潮妈辣婆[1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226286/1.m3u8
-NewTV潮妈辣婆[1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226286/1.m3u8
-NewTV铜综艺 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
-NewTV惊悬悬疑 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225638/index.m3u8
-NewTV惊悬悬疑[1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226423/1.m3u8
-新视精品体育[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225608/index.m3u8
-新电视军事评论[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225634/index.m3u8
-新电视军事评论[1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226326/1.m3u8
-NewTV农致富[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
-NewTV农致富[1920*1080],http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226304/1.m3u8
-NewTV 武博世界 [1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225664/index.m3u8
-NewTV武博世界[1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226320/1.m3u8
-NewTV炫舞未来[1920*1080],http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226248/1.m3u8
-NewTV怡健康伴[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225614/index.m3u8
-NewTV怡健康伴[1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226327/1.m3u8
-NewTV怡健康伴[1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226327/1.m3u8
-NewTV中国功夫[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
-NewTV中国功夫[1920*1080],http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
-NewTV中国功夫1920*1080],http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
-
-
-
 
