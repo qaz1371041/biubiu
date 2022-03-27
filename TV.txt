@@ -126,7 +126,7 @@ CCTV世界地理,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 
 
 湖北,#genre#
-湖北卫视,http://183.249.160.53:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228357/1/index.m3u8?fmt=ts2hls
+湖北卫视,http://183.207.249.16/PLTV/4/224/3221225877/index.m3u8
 湖北卫视,http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221227479/index.m3u8
 湖北卫视,http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
 湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
