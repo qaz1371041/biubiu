@@ -424,12 +424,15 @@ NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 玄幻影视,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 放映厅,http://hlsmgsplive.miguvideo.com:8080/wd-virtuallive5100030975-75/index.m3u8?msisdn=e617e2497d502bd75cbefd4a06087877&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20220320144134&Channel_ID=0131_10010001005&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=112.74.200.9&SecurityKey=20220320144134&mvid=5100030975&mcid=500020&mpid=&playurlVersion=ZQ-A1-5.2.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=dbd447fa93c43b898983221f0111cefc
 放映厅,http://hlsmgsplive.miguvideo.com:8080/wd-virtuallive5100030975-75/index.m3u8?msisdn=e617e2497d502bd75cbefd4a06087877&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20220314183135&Channel_ID=0131_10010001005&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=112.74.200.9&SecurityKey=20220314183135&mvid=5100030975&mcid=500020&mpid=&playurlVersion=SJ-A1-5.1.1.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=919d1393c5f4ec62897c2c4ea4b10371
-CHC高清影视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC高清影视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 CHC动作,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 CHC动作,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC动作,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1"#"http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8"#"http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8
 CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC解压喜剧,http://bp-caster.bestv.com.cn/570/1/video.m3u8
+
 
 
 埋堆堆,#genre#
