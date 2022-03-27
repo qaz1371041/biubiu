@@ -126,13 +126,13 @@ CCTV世界地理,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 
 
 湖北,#genre#
-湖北卫视,http://183.207.249.16/PLTV/4/224/3221225877/index.m3u8
-湖北卫视,http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221227479/index.m3u8
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+湖北卫视,http://111.40.196.9/PLTV/88888888/224/3221225566/index.m3u8
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
 湖北卫视,http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
-湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
-湖北卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225699/index.m3u8
-湖北卫视,http://183.249.160.53:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228815/index.m3u8fmt=ts2hls
-湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+湖北卫视,http://117.148.179.134/PLTV/88888888/224/3221231523/index.m3u8
+湖北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
+湖北卫视,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
 十堰新闻,http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
 十堰公共,http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8
 十堰经济,http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8
@@ -372,7 +372,6 @@ DYTM008抖音旅行射射第8期贵州侗族民族风1280*720,https://t11.cdn202
 
 爱奇艺,#genre#
 郭德纲相声,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_111_600_t10/c51_lb_111_600_t10.m3u8
-经典小品,http://hlstct.douyucdn2.cn/dyliveflv3/9322175rAkkPA37n.m3u8txSecret=c0da18640fe6d017514ae29dcaf4549e&txTime=6236e97a&token=cpn-androidmpro-0-9322175-bf0c62a9412dc009ccbb6d8128beb5b1&did=10000000000000000000000000001501&origin=tct&vhost=play3
 国剧修复,http://bdcdncmn3.inter.71edge.com/tslive/c53_lb_77_1080P_t10/c53_lb_77_1080P_t10.m3u8
 金典记实,http://bdcdncmn3.inter.71edge.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8
 医院故事,http://bdcdncmn3.inter.71edge.com/tslive/c51_lb_122_600_t10/c51_lb_122_600_t10.m3u8
