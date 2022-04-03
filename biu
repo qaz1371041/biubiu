@@ -42,7 +42,6 @@
 {"name":"抹茶猪","url":"https://www.mczdyw.com/api.php/app/"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}
 {"name":"追剧达人":{"url":"https://vipmv.co/xgapp.php/v1/"},
-{"name":"星空影视":{"url":"https://xkys.tv/xgapp.php/v1/","jx":[]},
 {"name":"天空影视":{"url":"https://tkys.tv/xgapp.php/v1/"},
 {"name":"迪迪影院V2":{"url":"http://dd88.icu:6080/xgapp.php/v2/"},
 {"name":"饭团影视":{"url":"http://television.wkfile.com/api.php/app/"},
