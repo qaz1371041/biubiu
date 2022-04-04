@@ -359,7 +359,7 @@ CCTV兵器科技,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 CCTV老故事,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls#
 CCTV中学生,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 #央视移动尾#
-##轮播头##
+#轮播头#
 CHC动作电影,http://v.mp.haue.edu.cn/hls/chcatv.m3u8#
 CHC动作电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#
@@ -422,7 +422,7 @@ CHC家庭影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/644368373#
 怀旧老片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582#
 武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822#
 盗墓笔记,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367#
-##轮播尾##
+#轮播尾#
 #卫视高清头#
 湖南卫视,http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8#
 湖南卫视,http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8#
