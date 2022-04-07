@@ -4,6 +4,9 @@
 {"name":"天空影视","url":"https://www.tkys.tv/xgapp.php/v2/"},
 {"name":"追剧吧","url":"http://zhuiju8.vip/api.php/v1.vod"},
 {"name":"手指影视","url":"https://szys5678.com/mogai_api.php/v1.vod"},
+{"name":"电影牛","url":"https://www.dianyingn.cc/api.php/v1.vod"},
+{"name":"晓峰影视","url":"http://api.xxcr.tk/api.php/v1.vod"},
+{"name":"水蜜桃","url":"http://51smt4.xyz/api.php/v1.vod"},
 {"name":"优视影视","url":"http://app.ysys.asia/lvdou_api.php/v1.vod"},
 {"name":"影阅阁","url":"http://221.236.18.12:665/api.php/v1.vod"},
 {"name":"初心影视","url":"https://www.18mv.club/api.php/v1.vod"},
@@ -58,11 +61,11 @@
 "reci": "https://v.sogou.com",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
 "gongju": "aHR0cDovLzQyLjE5My41NS4yNDI=",
-"lunbofanye": "https://www.douyu.com/gapi/rkc/directory/mixList/2_208/",
-"lunboqianzhui": "https://m.douyu.com",
+"lunbofanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxMzUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9",
+"lunboqianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw==",
 "Home": {
 "dy": {
-"class": "全部$&class=#喜剧$&class=喜剧#爱情$&class=爱情#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记#伦理$&class=伦理#午夜剧$&class=午夜剧",
+"class": "全部$&class=#喜剧$&class=喜剧#爱情$&class=爱情#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记#巨乳$&class=巨乳#熟女$&class=熟女#人妻$&class=人妻#制服$&class=制服#潮吹$&class=潮吹#办公室$&class=办公室#按摩$&class=按摩#强奸$&class=强奸#颜射$&class=颜射#口交$&class=口交#角色扮演$&class=角色扮演#伦理$&class=伦理#理论片$&class=理论片",
 "area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#欧洲$&area=欧洲#韩国$&area=韩国#日本$&area=日本#泰国$&area=泰国#印度$&area=印度#其它$&area=其它",
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 },
