@@ -1,36 +1,16 @@
 {"zhuyejiekou": [
-{"name":"秒播365","url":"https://www.kan365.xyz/api.php/app/"},
-{"name":"追剧吧","url":"http://zhuiju8.vip/api.php/v1.vod"},
-{"name":"琅琊影视","url": "http://fgyuu.top/lehailb_api.php/v1.vod"},
-{"name":"飓风影视","url": "http://jf.35ys.cc/lehailb_api.php/v1.vod"},
-{"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
-{"name":"DC影视","url":"http://chaorenbb.com/api.php/v1.vod"},
-{"name":"300看世界","url":"https://300ys.xyz/mogai_api.php/v1.vod"},
-{"name":"4K影院","url":"http://1api.4kdytv.com/api.php/v1.vod"},
-{"name":"段友影视","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
-{"name":"饭后电影","url":"http://yinliub.cn/lvdou_api.php/v1.vod"},
-{"name":"看看影视","url":"http://kk.ccboke.top/ruifenglb_api.php/v1.vod"},
-{"name":"绿箭影视","url":"http://www.69ty.cc/mogai_api.php/v1.vod"},
-{"name":"零刻影院","url":"https://ys.ling00.cn/api.php/v1.vod"},
-{"name":"懒猫电影","url":"http://lanmao.lanmaoymw.cn/api.php/v1.vod"},
-{"name":"影视大全","url":"https://app.okmedcos.com/api.php/v1.vod"},
-{"name":"我爱电影网","url":"https://www.haokanju.cc/api.php/v1.vod"},
-{"name":"藤蔓影视","url":"http://tengwan.yinliub.cn/lvdou_api.php/v1.vod"},
-{"name":"奈非迷","url":"https://app.netflixmi.com/api.php/v1.vod"},
-{"name":"tvip","url":"http://app.tvip.cc/api.php/v1.vod"},
-{"name":"筋斗云影视","url":"https://tv.jindcloud.com/api.php/v1.vod"},
-{"name":"免费影视","url":"http://111.229.120.180:88/lvdou_api.php/v1.vod"}，
-{"name":"影视大全","url":"https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"},
-{"name":"樱恋雨影视","url":"https://yingshi.miaomemg.com/api.php/v1.vod"},
-{"name":"月儿影视","url":"https://yue52.xyz/api.php/v1.vod"}],
+{"name":"360红豆源","url":"https://www.kan365.xyz/api.php/app/"},
+{"name":"极简影视","url":"https://tv.areone.top/api.php/v1.vod"},
+{"name":"二货","url":"https://app.y.hgyule8.com/api.php/v1.vod"}],    
 "caijizhan": [
 {"name":"七七","url":"http://api.kunyu77.com/api.php"},
 {"name":"丝袜资源","url":"https://siwazyw.cc/api.php"}],
-"lunbo": [
+"lunbo":[
 {"name": "斗鱼","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},
 {"name": "虎牙","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxMzUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
-{"name": "bilibili","fanye": "aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9MTAmYXJlYV9pZD0zMyZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9iaWxpLw=="},
-{"name": "YY","fanye": "aHR0cHM6Ly93d3cueXkuY29tL21vcmUvcGFnZS5hY3Rpb24/Yml6PXNpbmcmc3ViQml6PWlkeCZwYWdlPQ==","qianzhui": "aHR0cHM6Ly93d3cueXkuY29t"}],
+{"name": "哔哩","fanye": "aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9MTAmYXJlYV9pZD0zMyZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9iaWxpLw=="},
+{"name": "yy","fanye":"aHR0cHM6Ly93d3cueXkuY29tL21vcmUvcGFnZS5hY3Rpb24/Yml6PXNpbmcmc3ViQml6PWlkeCZwYWdlPQ==","qianzhui": "aHR0cHM6Ly93d3cueXkuY29t"},
+{"name": "秀儿","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTE2NjMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"}],
 "zhujiexi": "https://jhjx.kuanjv.com/newky/?url=#https://json.hfyrw.com/mao.go?url=#https://www.nxflv.com/?url=#http://42.157.128.85:880/analysis/json/?uid=2245&my=cdnouwxBHLMQSUVWZ1&url=#https://www.8090g.cn/?url=#https://api.jiexi.la/?url=#https://www.playm3u8.cn/jiexi.php?url=#https://www.ckplayer.vip/jiexi/?url#https://www.pangujiexi.cc/jiexi.php?url=#https://api.jhdyw.vip/dd.php?url=#https://www.h8jx.com/jiexi.php?url=#https://languangyingshiziyuan.1080zy.top/longteng.php/?url=#https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=#https://humaosp.com/json.php?url=#https://apis.jxcxin.cn/api/jx?url=#https://jx.ncxmid.cn/sb/?url=#http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url=#http://ys.ling00.cn/json/?url=#https://che.kmys.top/1.php?url=#https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=#https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=#http://newjiexi.gotto.top/keyu3.php/?ur#https://api.oldvcd.com/api/?key=sOQzlb6SfjIeGokMDV&url=#http://yaluan.520say.cn/home/api?type=ys&uid=205178&key=adhinowyCLMQSX3456&url=#https://jx.xl6.top/json/?url=#https://jx.zhanlangbu.com/json.php/?url=#http://42.157.128.85:880/analysis/json/?uid=2245&my=chorsvzDIKVWX34789&url=#http://api.vip123kan.vip/?url=#https://json.5lp.net/json.php?url=#https://jx.300ys.xyz/json/jianghu.php/?url=#https://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=dhlotwxzABCIJMT189&url=#http://xxt.gbxy.net.cn/home/api?type=ys&uid=511247&key=aeikmrsyBGKTVY0267&url=#https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=#https://jf.96ym.cn/api/?key=4tuNi0EjxTYFzJIN5r&url=
 Jz23mc06R&url=#https://json.hfyrw.com/mao.go?url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=#https://json.pangujiexi.com:12345/json.php?url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=#https://www.yemu.xyz/?url=#https://thinkibm.vercel.app/?url=#https://jx.xmflv.com/?url=#https://svip.bljiex.cc/?v=#https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/?url=#http://svip.nicefamily.club/home/api?type=ys&uid=769560&key=chijkrtBEGNPRWXZ35&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=#https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/?url=
 #https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
