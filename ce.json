@@ -39,11 +39,10 @@
 {"name":"饭后电影","url":"http://yinliub.cn/lvdou_api.php/v1.vod"}],
 "caijizhan": [
 {"name":"77","url":"http://api.kunyu77.com/api.php"},    
-{"name":"丝袜资源","url":"https://siwazyw.cc/api.php/provide/vod/at/xml/"},
+{"name":"丝袜资源","url":"https://siwazyw.cc/api.php"},
 {"name":"老鸭资源","url":"https://api.apilyzy.com/api.php"},
 {"name":"色窝资源","url":"https://sewozyapi.com/api.php"},
-{"name":"秀色资源","url":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/"},
-{"name":"美少女资源","url":"https://www.msnii.com/api/xml.php"},
+{"name":"秀色资源","url":"https://api.xiuseapi.com/api.php"},
 {"name":"花椒资源","url":"https://apihjzy.com/api.php"}],
 "lunbo":[
 {"name": "斗鱼","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},
