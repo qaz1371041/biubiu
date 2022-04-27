@@ -39,9 +39,11 @@
 {"name":"饭后电影","url":"http://yinliub.cn/lvdou_api.php/v1.vod"}],
 "caijizhan": [
 {"name":"77","url":"http://api.kunyu77.com/api.php"},    
-{"name":"丝袜资源","url":"https://siwazyw.cc/api.php"},
+{"name":"丝袜资源","url":"https://siwazyw.cc/api.php/provide/vod/at/xml/"},
 {"name":"老鸭资源","url":"https://api.apilyzy.com/api.php"},
 {"name":"色窝资源","url":"https://sewozyapi.com/api.php"},
+{"name":"秀色资源","url":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/"},
+{"name":"美少女资源","url":"https://www.msnii.com/api/xml.php"},
 {"name":"花椒资源","url":"https://apihjzy.com/api.php"}],
 "lunbo":[
 {"name": "斗鱼","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},
@@ -49,8 +51,8 @@
 {"name": "哔哩","fanye": "aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9MTAmYXJlYV9pZD0zMyZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9iaWxpLw=="},
 {"name": "yy","fanye":"aHR0cHM6Ly93d3cueXkuY29tL21vcmUvcGFnZS5hY3Rpb24/Yml6PXNpbmcmc3ViQml6PWlkeCZwYWdlPQ==","qianzhui": "aHR0cHM6Ly93d3cueXkuY29t"},
 {"name": "秀儿","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTE2NjMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"}],
-"zhujiexi": "https://z1.m1907.cn/?jx=#https://vip.parwix.com:4433/player/?url=#https://jx.aidouer.net/?url=#https://vip.bljiex.com/?v=#https://api.qianqi.net/vip/?url=#https://jx.52damu.com/dmjx/jiexi.php?url=#https://api.jiexi.la/?url=#https://lecurl.cn/?url=#https://vip.laobandq.com/jiexi.php?url=#https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=#https://jx.m3u8.tv/jiexi/?url=#https://www.ckmov.com/?url=#https://www.nxflv.com/?url=",
-"beiyongjiexi": "https://okjx.cc/?url=#https://www.playm3u8.cn/jiexi.php?url=#https://jx.quanmingjiexi.com/?url=#https://jx.rdhk.net/?v=#https://jsap.attakids.com/?url=#https://jx.xmflv.com/?url=#https://sb.5gseo.net/?url=",
+"zhujiexi": "https://api.47ks.com/webcloud/?v=#http://api.baiyug.cn/vip/index.php?url=#http://977345961.kezi.wang/ykyun/c.php?vid=#http://apn.zhibo99.cn/mdparse/letv.php?id=#http://api.mp4la.net/?url=#http://v.72du.com/api/?url=#http://jx.71ki.com/index.php?url=#http://000o.cc/jx/ty.php?url=#http://www.yydy8.com/Common/?url=#http://yun.mt2t.com/yun?url=#http://api.mp4la.net/?url=#http://yyygwz.com/index.php?url=#http://www.97zxkan.com/jiexi/97zxkanapi.php?url=#http://www.wmxz.wang/video.php?url=#http://www.bbshanxiucao.top/video.php?url=#http://www.xiguaso.com/api/index.php?url=#http://www.kppev.cn/jiexi/5/1/1.php?url=#http://api.mp4la.net/?url=#http://v.72du.com/api/?url=#http://yun.mt2t.com/yun?url=#http://yyygwz.com/index.php?url=",
+"beiyongjiexi": "https://www.feisuplayer.com/m3u8/?url=#https://player.sszyplayer.com/dplayer/?url=#https://vip.rxseo.cc/v/?url=#https://vip.rongxingvr.cn/#https://player.leyuzy.net/?url=#https://jiexi.naichaapi.com/?url=#https://player.suboapi.com/jx/?url=#https://parse.dm2.im/jx.php?url=#https://www.pangujiexi.com/pangu/?url=#http://17kyun.com/api.php?url=#https://jx.sujx.top/jiexi.php/?url=#https://www.8090.la/api/?url=#https://www.1717yun.com/jiexi/?url=#https://www.pangujiexi.com/jiexi/?url=#https://www.tutukiki.com/m3u8/?url=#https://help.siwazywcdn2.com:5278/m3u8.php?url=",
 "dianshizhibo": "https://gitee.com/zenmeng/abcd/raw/master/biu/tv/.php",
 "tiyuzhibo": "https://m.zhibo8.net",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
