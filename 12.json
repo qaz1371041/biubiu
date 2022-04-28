@@ -33,7 +33,8 @@
 {"name":"色窝资源","url":"https://sewozyapi.com/api.php"},
 {"name":"秀色资源","url":"https://api.xiuseapi.com/api.php"},
 {"name":"老鸭资源","url":" https://api.apilyzy.com/api.php"},
-{"name":"鱼乐资源网","url":"https://api.yulecj.com/api.php"}],
+{"name":"KK资源","url":" https://kkzy.me/api.php"},
+{"name":"猫咪1","url":"http://zy.xiaomaomi.cc/api.php"}],
 //填写轮播接口，翻页链接和播放前缀的格式是base64编码
 "lunbo": [
 {"name": "斗鱼","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},
