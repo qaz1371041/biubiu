@@ -35,8 +35,8 @@
 {"name":"爱播资源","url":"https://api.apiabzy.com/api.php"},
 {"name":"色窝资源","url":"https://sewozyapi.com/api.php"},
 {"name":"秀色资源","url":"https://api.xiuseapi.com/api.php"},
-{"name":"老鸭资源","url":" https://api.apilyzy.com/api.php"},
-{"name":"番号资源","url":" http://fhapi9.com/api.php"},
+{"name":"辣椒资源","url":" https://apilj.com/api.php"},
+{"name":"爱看","url":" http://www.aikanzyz9.com/inc/api.php"},
 {"name":"猫咪1","url":"http://zy.xiaomaomi.cc/api.php"}],
 //填写轮播接口，翻页链接和播放前缀的格式是base64编码
 "lunbo": [
