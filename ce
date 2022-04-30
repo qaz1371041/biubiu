@@ -3,14 +3,14 @@
 {"zhuyejiekou": [
 {"name":"360红豆源","url":"https://www.kan365.xyz/api.php/app/"},
 {"name":"爱西西","url":"https://myaixixi.com/xgapp.php/v1/"},
-{"name":"F7高清","url":"http://bc.haokanju1.cc/lvdou_api.php/v1.vod"},
-{"name":"HG影视","url":"http://hgyx.vip/api.php/v1.vod"},
-{"name":"爱酷影视","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
-{"name":"段友影视","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
-{"name":"段友2影视","url":"https://shangjihuoke.com/api.php/tv.vod"},
+
+
+
+
+
 {"name":"粉象视界","url":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
-{"name":"看看影视","url":"http://kk.ccboke.top/ruifenglb_api.php/v1.vod"},
-{"name":"绿箭影视","url":"http://www.69ty.cc/mogai_api.php/v1.vod"},
+
+
 {"name":"零刻影院","url":"https://ys.ling00.cn/api.php/v1.vod"},
 {"name":"琅琊影视","url":"http://fgyuu.top/lehailb_api.php/v1.vod"},
 {"name":"麻瓜视频","url":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
@@ -69,7 +69,6 @@
 {"name": "秀儿","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTE2NjMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"}],
 //主解析是JSON直链的，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
 "zhujiexi": "https://dm.xbqgx.com/?url=#https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/?url=#https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=#https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=#https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#http://ts.yjhan.com:8090/api/?key=Y4GefMCIQJz23mc06R&url=#https://json.hfyrw.com/mao.go?url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=#https://json.pangujiexi.com:12345/json.php?url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=#http://jf.tcspvip.com:246/home/api?type=ys&uid=65404&key=bjoprtvyABGIMPXZ27&url=#http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url=#https://json.hfyrw.com/mao.go?url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=7665652&key=dglmnwEFILMOPRW056&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url=#https://api.parwix.com:4433/analysis/json/?uid=1735&my=cejkmnuvyBEFINR056&url=#https://svip.spchat.top/api/?key=SAl7tLs3Zzu5alSNtz&url=#https://supervip.rongxingvr.cn:8866/api/?key=nKn4eO8giUKSe8jxZU&url=#https://json.legendwhb.cn/json.php/?url=#https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url=#http://14.17.115.200:520/json.php?id=6e5LaYyU5JLs9aRawyGKwPkH7ZFr701z&url=#http://newjiexi.gotto.top/yun_apib.php/?url=#https://jx.xmflv.com/?url=#http://vipjh.chunbaotaiji.com/?url=#https://jhjx.ptygx.com/xttyjx.php/?url=#https://api.zakkpa.com:8888/analysis/json/?uid=39&my=ehklrtxzAFKLMNUXY2&url=#http://fast.rongxingvr.cn:99/api/?key=M3tZzS2q0oGrQ7aWlr&url=#http://jf.jisutuku.top/api/?key=RHjXcjUTkyZnfWx9u4&url=#https://vip.kpjx.cc/api/?key=3sKKYzWSxLmX1hnsMs&url=#http://47.100.138.210:91/home/api?type=ys&uid=1947441&key=bcfgjmuwCEORSVX237&url=#https://fast.rongxingvr.cn:8866/api/?key=rmxOw7BpINuGIyWQng&url=#https://fast.rongxingvr.cn:8866/api/?key=nrR7koAyq9ajKId4nC&url=#http://a.dxzj88.com/jhjson/?url=#https://fast.rongxingvr.cn:8866/api/?key=J4mUIu3DrRtIOojDox&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url=#http://47.100.138.210:91/home/api?type=ys&uid=243653&key=kqswxyABGHKLQSV127&url=#https://fast.rongxingvr.cn:8866/api/?key=jtDZ22biNujOBLlgoe&url=#https://vip.parwix.com:4433/player/?url=#http://api.vip123kan.vip/?url=#https://jhjx.ptygx.com/xttyjx.php/?url=#https://sbsb.i8k.cc/?url=#http://gq.bywdtk.cn/?url=#https://balabala.yatongle.com/api/?key=RuHZpg9zxigiLZRIyl&url=#http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=#https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url=#https://jx.renrenmi.cc/?url=#https://jx.renrenmi.cc/?url=#https://json.hfyrw.com/mao.go?url=#http://api.vip123kan.vip/?url=#http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=#http://jx.maccms.ren/home/api?type=ys&uid=15959&key=abgisvyzFHJKOSTUW0&url=#https://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=cfnoprCDJKLNPQTY34&url=#https://api.parwix.com:4433/analysis/json/?uid=1735&my=cejkmnuvyBEFINR056&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url=#http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
-
 //备用解析是常规格式的解析，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
 "beiyongjiexi": "https://dm.xbqgx.com/?url=#http://www.wmxz.wang/video.php?url=#http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=#http://47.100.138.210:92/?url=#https://jx.parwix.com:4433/player/?url=#https://www.nxflv.com/?url=",
 
