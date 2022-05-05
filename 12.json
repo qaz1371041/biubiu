@@ -2,11 +2,10 @@
 //主页接口支持以下5种接口格式，只要后缀是以下5种的格式，都是可以直接复制过来使用的。最后一个接口结尾不加 , 号。
 {"zhuyejiekou": [  
 {"name":"秒播365","url":"https://www.kan365.xyz/api.php/app/"},
-{"name":"团夕影视","url":"https://www.kan365.xyz/api.php/app/"},
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"}, 
 {"name":"痞痞狸","url":"http://app.ppli.xyz/api.php/v1.vod"},
-{"name":"飓风影院","url":"http://yidayy.top/lehailb_api.php/v1.vod"},
-{"name":"飓风影(v1)","url":"http://yidayy.top/lehailb_api.php/v1.vod"},
+
+
 {"name":"爱西西","url":"https://myaixixi.com/xgapp.php/v1/"},
 {"name":"益达影院","url":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
 {"name":"DC影视","url":"http://chaorenbb.com/api.php/v1.vod"},
