@@ -27,8 +27,7 @@
 {"name":"U5影视","url":"https://appx.uy07.com/api.php/v1.vod"}],
 
 //填写采集站的接口
-"caijizhan": [
-{"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
+"caijizhan": [{"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
 {"name":"推荐采集","url":"http://101.34.7.151:600/api.php"},
 {"name":"剧好看资源","url":"https://www.juhaokan.cc/api.php"},
 {"name":"8090资源","url":"http://zy.yilans.net:8090/api.php"},
@@ -88,6 +87,7 @@
 {"name":"天天看","url":"https://www.ttky8.com/api.php"},
 {"name":"每天看看","url":"http://47.113.126.237:1234/api.php"},
 {"name":"一拳动漫","url":"http://47.97.68.224/api.php"},
+{"name":"饭团影视","url":"http://television.wkfile.com/api.php"},
 {"name":"畅视影视","url":"http://app.reboju.net/api.php"},
 {"name":"人人资源","url":"http://www.rrzyw.cc/api.php"},
 {"name":"猪猪影院","url":"https://www.2zdyy.com/api.php"},
@@ -105,9 +105,7 @@
 {"name":"77电影","url":"https://www.77diany.com/api.php"},
 {"name":"TVB云播","url":"http://www.tvyb02.com/api.php"},
 {"name":"饭后电影","url":"http://yinliub.cn/api.php"},
-{"name":"看365","url":"https://www.kan365.xyz/api.php"}
-{"name":"影库资源网","url":" https://api.ykapi.net/api.php"},
-{"name":"猫咪1","url":"http://zy.xiaomaomi.cc/api.php"}],
+{"name":"看365","url":"https://www.kan365.xyz/api.php"}],
 //填写轮播接口，翻页链接和播放前缀的格式是base64编码
 "lunbo": [
 {"name": "斗鱼","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},
