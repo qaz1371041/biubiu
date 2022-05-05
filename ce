@@ -7,7 +7,7 @@
 {"name":"余生影视","url":"http://yu.cuicanys.cn/lvdou_api.php/v1.vod"},
 {"name":"阿里云","url":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"}, 
 {"name":"佩奇","url":"https://yh.lswwe.com/xgapp.php/v2/"}, 
-
+{"name":"痞痞狸","url":"http://app.ppli.xyz/api.php/v1.vod"},
 {"name":"爱酷影视","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
 {"name":"嗷呜视频","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
@@ -31,7 +31,7 @@
 //填写采集站的接口
 "caijizhan": [
 {"name":"77","url":"http://api.kunyu77.com/api.php"},    
-{"name":"丝袜资源","url":"https://siwazyw.cc/api.php"},
+{"name":"KK","url":"https://kkzy.me/api.php"},
 {"name":"老鸭资源","url":"https://api.apilyzy.com/api.php"},
 {"name":"色窝资源","url":"https://sewozyapi.com/api.php"},
 {"name":"秀色资源","url":"https://api.xiuseapi.com/api.php"},
@@ -44,7 +44,7 @@
 {"name": "yy","fanye":"aHR0cHM6Ly93d3cueXkuY29tL21vcmUvcGFnZS5hY3Rpb24/Yml6PXNpbmcmc3ViQml6PWlkeCZwYWdlPQ==","qianzhui": "aHR0cHM6Ly93d3cueXkuY29t"},
 {"name": "秀儿","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTE2NjMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"}],
 //主解析是JSON直链的，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
-"zhujiexi": "https://api.jhdyw.vip/?url=#https://api.zakkpa.com:8888/analysis/json/?uid=91&my=gjksuvCHIJLRS01268&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=#https://jx.renrenmi.cc/?url=#https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url=#http://newjiexi.gotto.top/yun_apib.php/?url=#https://json.hfyrw.com/mao.go?url=#https://jx.parwix.com:4433/player/?url=#https://vip.laobandq.com/jiexi.php?url=#https://z1.m1907.cn/?jx=#https://jsap.attakids.com/?url=#https://vip.cjys.top/?url=#https://vip.66parse.club/?url=#https://vip.parwix.com:4433/player/?url=#https://vip.jianjians.com/?url=#https://vip.2ktvb.com/player/?url=#http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url=#https://vip123kan.vip/m3u8.php?url=",
+"zhujiexi": "https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/?url=#http://svip.nicefamily.club/home/api?type=ys&uid=769560&key=chijkrtBEGNPRWXZ35&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=#http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=",
 
 //备用解析是常规格式的解析，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
 "beiyongjiexi": "https://jx.wfy4.com/?url=#http://vip.600tv.cn/jx/?url=#http://jx.lache.me/cc/?url=#http://jx.598110.com/zuida.php?url=#http://www.idhyp.cn/index.php?url=#http://www.freeget.org/jx.php?url=#http://www.freeget.org/jx.php?url=#http://api.greatchina56.com/?url=#http://api.xiaomil.com/a/index.php?url=#http://at520.cn/jx/?url=#http://api.nobij.top/jx/?url=#http://player.jidiaose.com/supapi/iframe.php?v=#http://api.91exp.com/svip/?url=#https://jx.618g.com/?url=#http://api.bbbbbb.me/ipsign/player.php?v=#http://17kyun.com/api.php?url=",
@@ -79,7 +79,7 @@
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 },
 "dm": {
-"class": "全部$&class=#搞笑$&class=搞笑#番剧$&class=番剧#国创$&class=国创#大电影$&class=大电影#热血$&class=热血#催泪$&class=催泪#治愈$&class=治愈#励志$&class=励志#机战$&class=机战#战斗$&class=战斗#恋爱$&class=恋爱#科幻$&class=科幻#奇幻$&class=奇幻#魔幻$&class=魔幻#推理$&class=推理#校园$&class=校园#日常$&class=日常#经典$&class=经典#历史$&class=历史#美食$&class=美食#职场$&class=职场#偶像$&class=偶像#泡面$&class=泡面#冒险$&class=冒险#竞技$&class=竞技#武侠$&class=武侠#玄幻$&class=玄幻",
+"class": "全部$&class=#搞笑$&class=搞笑#番剧$&class=番剧#国创$&class=国创#大电影$&class=大电影#热血$&class=热血#催泪$&class=催泪#治愈$&class=治愈#励志$&class=励志#机战$&class=机战#战斗$&class=战斗#恋爱$&class=恋爱#科幻$&class=科幻#奇幻$&class=奇幻#魔幻$&class=魔幻#推理$&class=推理#校园$&class=校园#日常$&class=日常#经典$&class=经典#历史$&class=历史#美食$&class=美食#职场$&class=职场#偶像$&class=偶像#泡面$&class=泡面#冒险$&class=冒险#竞技$&class=竞技#武侠$&class=武侠#玄幻$&class=玄幻#伦理$&class=伦理",
 "area": "全部$&area=#内地$&area=内地#日本$&area=日本#欧美$&area=欧美#其它$&area=其它",
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 }
