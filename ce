@@ -24,7 +24,7 @@
 {"name":"月儿影视","url":"https://yue52.xyz/api.php/v1.vod"},
 {"name":"爱影视","url":"https://www.hzlff.cn/api.php/v1.vod"},
 {"name":"看剧吧","url":"http://app.ishen520.com/api.php/v1.vod"},
-{"name":"2号币","url":"http://phoebe.cf/api.php/iptv/vod/"},
+
 {"name":"U5影视","url":"https://appx.uy07.com/api.php/v1.vod"}],
 
 //填写采集站的接口
@@ -76,7 +76,7 @@
 {"name":"789盘","url":"https://www.rrvipw.com/api.php"},
 {"name":"旋风云","url":"http://appimg.ssxmall.cn/api.php"},
 {"name":"皮荼熊TV","url":"https://www.psinu.com/api.php"},
-{"name":"哆咪动漫","url":"http://www.dmdm2020.com/api.php"},
+
 {"name":"考拉TV","url":"https://ikaola.tv/api.php"},
 {"name":"荔枝影视","url":"http://www.zjys.vip/api.php"},
 {"name":"段友影视","url":"http://shangjihuoke.com/api.php"},
@@ -85,7 +85,7 @@
 {"name":"思古影院","url":"https://www.siguyy.net/api.php"},
 {"name":"天天看","url":"https://www.ttky8.com/api.php"},
 {"name":"每天看看","url":"http://47.113.126.237:1234/api.php"},
-{"name":"一拳动漫","url":"http://47.97.68.224/api.php"},
+{"name":"蓝光影视资源","url":"http://www.zzrhgg.com/api.php"},
 {"name":"饭团影视","url":"http://television.wkfile.com/api.php"},
 {"name":"畅视影视","url":"http://app.reboju.net/api.php"},
 {"name":"人人资源","url":"http://www.rrzyw.cc/api.php"},
@@ -113,7 +113,7 @@
 {"name": "yy","fanye":"aHR0cHM6Ly93d3cueXkuY29tL21vcmUvcGFnZS5hY3Rpb24/Yml6PXNpbmcmc3ViQml6PWlkeCZwYWdlPQ==","qianzhui": "aHR0cHM6Ly93d3cueXkuY29t"},
 {"name": "秀儿","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTE2NjMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"}],
 //主解析是JSON直链的，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
-"zhujiexi": "https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/?url=#http://svip.nicefamily.club/home/api?type=ys&uid=769560&key=chijkrtBEGNPRWXZ35&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=#https://jhpc.manduhu.com/j1217.php?url=#https://json.hfyrw.com/mao.go?url=#https://json.pangujiexi.com:12345/json.php?url=#https://jhjx.kuanjv.com/newky/?url=#https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=#https://vvip.funsline.cn/api/?key=JNiddoRwmLBYehxnFq&url=",
+"zhujiexi": "https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/?url=#http://svip.nicefamily.club/home/api?type=ys&uid=769560&key=chijkrtBEGNPRWXZ35&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=#http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=",
 
 //备用解析是常规格式的解析，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
 "beiyongjiexi": "http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=#https://jx.parwix.com:4433/player/?url=#https://jx.xuanqi.pro/?url=#https://www.nxflv.com/?url=#http://47.100.138.210:92/?url=#http://api.diliktv.xyz/vip/jx.php?url=#http://api.diliktv.xyz/vip/jx.php?url=#https://jx.blbo.cc:4433/?url=#https://nbjx.vip/?url=#https://okjx.cc/?url=#https://vip.bljiex.com/?v=#https://jx.xmflv.com/?url=#https://z1.m1907.cn/?jx=#https://sb.5gseo.net/?url=#https://jx.xuanqi.pro/?url=",
