@@ -703,7 +703,8 @@ ADN-017,https://siwazywcdn2.com:5278//zhongwenzimu/71AKDJUw/index.m3u8
 RCTD-341,https://siwazywcdn2.com:5278//zhongwenzimu/01l52txJ/index.m3u8
 大合集,https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
 
-记录,🎥🎥#genre#
+
+🎥🎥记录,#genre#
 求索动物,http://111.11.123.49:6610/000000001000/6000000002000010046/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143132239553&channel-id=wasusyt&Contentid=6000000002000010046
 求索记录,http://111.11.123.49:6610/000000001000/6000000002000032052/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429142822239451&channel-id=wasusyt&Contentid=6000000002000032052
 求索科学,http://111.11.123.49:6610/000000001000/6000000002000032344/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143356239632&channel-id=wasusyt&Contentid=6000000002000032344
