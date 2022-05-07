@@ -25,7 +25,36 @@
 {"name":"爱影视","url":"https://www.hzlff.cn/api.php/v1.vod"},
 {"name":"看剧吧","url":"http://app.ishen520.com/api.php/v1.vod"},
 
-{"name":"U5影视","url":"https://appx.uy07.com/api.php/v1.vod"}],
+{"name":"影视阁","url":"http://216.98.10.85/api.php/iptv/vod/"},
+{"name":"小熊猫TV","url":"http://tv2.hetaoys.vip/api.php/iptv/vod/"},
+{"name":"小南TV","url":"http://n293.ngys.xyz/mv/api.php/Chengcheng/vod/"},
+{"name":"天空TV","url":"http://tv.tkys.tv/api.php/iptv/vod/"},
+{"name":"山楂影视","url":"http://dy6.dcd1.cn/api.php/iptv/vod/"},
+{"name":"柠檬TV","url":"http://106.12.113.90:7575/api.php/iptv/vod/"},
+{"name":"芒迅TV","url":"http://www.hdyangtv.com/api.php/iptv/vod/"},
+{"name":"猫咪TV","url":"http://106.12.113.90:6565/api.php/iptv/vod/"},
+{"name":"米来影视","url":"http://42.51.37.161:2346/api.php/iptv/vod/"},
+{"name":"麦看视频","url":"http://tv.shenaitv.com/api.php/iptv/vod/"},
+{"name":"荔枝影视","url":"http://api.zjys.vip/api.php/iptv/vod/"},
+{"name":"金叶影院","url":"http://r.zjj.life:88/mv/api.php/Chengcheng/vod/"},
+{"name":"极品影院","url":"http://293x.yhzy.xyz/mv/api.php/Chengcheng/vod/"},
+{"name":"聚多影视","url": "http://jdys.weetai.cn/api.php/iptv/vod/"},
+{"name":"盒子视界","url":"http://eh.tvzy.cc/api.php/iptv/vod/"},
+{"name":"黑龙影视","url":"http://vip.ji-ding-he.site/api.php/iptv/vod/"},
+{"name":"嘿荼锋","url":"http://tv.hfys8.vip/api.php/Sntv/vod/"},
+{"name":"贵宾影院","url":"https://vipdytv.com/api.php/iptv/vod/"},
+{"name":"飞扬TV","url":"http://cms.feifan12.xyz/api.php/iptv/vod/"},
+{"name":"非凡影院","url":"http://yinliub.cn/lvdou_api.php/v1.vod"},
+{"name":"独优影视","url":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
+{"name":"大师兄","url":"http://dsxtv.tv.ci/api.php/dsx/vod/"},
+{"name":"叮当TV","url":"http://tv.hyddys.top/api.php/iptv/vod/"},
+{"name":"爱西西TV","url":"http://tv2.aixixi.vip/api.php/iptv/vod/"},
+{"name":"CV影视","url":"http://www.cccvvv.top/api.php/iptv/vod/"},
+{"name":"369TV","url":"http://8.142.23.147:555/api.php/Chengcheng/vod/"},
+{"name":"2号币","url":"http://phoebe.cf/api.php/iptv/vod/"}],
+
+
+
 
 //填写采集站的接口
 "caijizhan": [{"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
