@@ -23,6 +23,7 @@
 {"name":"饭后电影","url":"http://yinliub.cn/lvdou_api.php/v1.vod"},
 {"name":"月儿影视","url":"https://yue52.xyz/api.php/v1.vod"},
 {"name":"爱影视","url":"https://www.hzlff.cn/api.php/v1.vod"},
+{"name":"2号币","url":"http://phoebe.cf/api.php/iptv/vod/"},
 {"name":"看剧吧","url":"http://app.ishen520.com/api.php/v1.vod"}],
 //填写采集站的接口
 "caijizhan": [{"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
