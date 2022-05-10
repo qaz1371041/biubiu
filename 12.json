@@ -102,9 +102,9 @@
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 }
 },
-
-//填写自定义内容，或者直接在软件设置界面的自定义接口上传，这里不用填也行。
-"zidingyi": {"name": "乐猪影视",
+//填写自定义内容，格式是 {自定义1},{自定义2},{自定义3} 一个花括号里面就是一个自定义接口内容  用，号分割  最后一个不加，号
+"zidingyi": [
+{"name": "乐猪影视",
 "url": "http://www.lezhutv.com",
 "tihuan": "cnzz.com",
 "User": "空",
