@@ -27,6 +27,17 @@
 {"name":"段友影视2","url":"http://js.66app.me/api.php/app/"},
 {"name":"段友影视3","url":"https://shangjihuoke.com/api.php/tv.vod"},
 
+{"name":"开尔影院","url":"https://appx.uy07.com/api.php/v1.vod"},
+{"name":"雪人影视","url":"http://qqtvapp.com/xgapp.php/v1/"},
+"name":"1080KK","url":"http://123.250idc.com/mogai_api.php/v1.vod"},
+{"name":"飓风影视2","url": "http://jf.35ys.cc/lehailb_api.php/v1.vod"},
+{"name":"渔渔影视","url":"http://luobo.yugenye.site/api.php/v1.vod"},
+{"name":"Hi影视","url":"http://114.132.251.111:999/lvdou_api.php/v1.vod"},
+{"name":"MX影视","url":"http://mkk.gotka.top/api.php/v1.vod"},
+{"name":"痞痞狸","url":"http://app.ppli.xyz/api.php/v1.vod"},
+{"name":"刺桐影视","url":"http://app.cttv.vip/api.php/v1.vod"},
+
+
 {"name":"痞痞狸","url":"http://app.ppli.xyz/api.php/v1.vod"}],
 //填写采集站的接口
 "caijizhan": [{"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
