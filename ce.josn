@@ -37,6 +37,21 @@
 {"name":"痞痞狸","url":"http://app.ppli.xyz/api.php/v1.vod"},
 {"name":"刺桐影视","url":"http://app.cttv.vip/api.php/v1.vod"},
 
+{"name":"MX影视","url":"http://mkk.gotka.top/api.php/v1.vod"},
+{"name":"OK影视","url":"http://123.ok00.xyz/api.php/v1.vod"},
+{"name":"爱电影","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
+{"name":"艾特影视","url":"https://www.aitee.cc/api.php/v1.vod"},
+{"name":"寒枫视频","url":"https://vip.shenyunwl.cn/mogai_api.php/v1.vod"},
+{"name":"看吧VIP","url":"http://app.ppli.xyz/api.php/v1.vod"},
+{"name":"凌晨影视","url":"https://vip.wscyun.com/api.php/v1.vod"},
+{"name":"冷视TV","url":"https://len.tv/api.php/v1.vod"},
+{"name":"流星影院","url":"http://app.216bk.xyz/api.php/v1.vod"},
+{"name":"蒲公英视频","url":"http://www.pgy1.top/ruifenglb_api.php/v1.vod"},
+{"name":"日诚影视","url":"http://tv.rcz168.com/api.php/v1.vod"},
+{"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
+{"name":"影库","url":"https://yingkudy.com/lvdou_api.php/v1.vod"},
+{"name":"追剧TV","url":"http://111.229.120.180:88/lvdou_api.php/v2.vod"},
+
 
 {"name":"痞痞狸","url":"http://app.ppli.xyz/api.php/v1.vod"}],
 //填写采集站的接口
