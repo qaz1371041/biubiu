@@ -52,13 +52,14 @@
 },
 "zidingyi": [
 //具体每一项的字段的说明看BiuBiu影院，公众号发的自定义字段说明那篇文章，这里面的注释都不用删除，编辑完后，全部选中上传就可以了，注释说明不影响使用。
+//具体每一项的字段的说明看BiuBiu影院，公众号发的自定义字段说明那篇文章，这里面的注释都不用删除，编辑完后，全部选中上传就可以了，注释说明不影响使用。
 
 {"name": "黄仓库",
 "url": "http://6662ck.com",
 "User": "空",
 
 //影视分类和翻页后缀部分
-"fenlei": "萝莉$/submit=--------#无码中字$/vodtype/8--------#日本无码$/vodtype/10--------有码中文$/vodtype/9--------#国产$/vodtype/15--------#欧美成人$/vodtype/21--------动漫$/vodtype/22--------",
+"fenlei": "萝莉$/submit=--------#无码中字$/vodtype/8--------#日本无码$/vodtype/10--------#有码中文$/vodtype/9--------#国产$/vodtype/15--------#欧美成人$/vodtype/21--------#动漫$/vodtype/22--------",
 "houzhui": "---.html",
 
 //影视列表展示部分
@@ -98,25 +99,26 @@
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuqian": "id=\"class="stui-player__video clearfix",
 "bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "class=\"otherbox\">",
+"zhuangtaiqian": "class=\"data\">",
 "zhuangtaihou": "</p>",
-"daoyanqian": "导演：</span>",
+"daoyanqian": "导演：</data>",
 "daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
+"zhuyanqian": "主演：</data>",
 "zhuyanhou": "</p>",
-"juqingqian": "<span class=\"data\"",
-"juqinghou": "</span>",
+"juqingqian": "<style=\"display: none;\"",
+"juqinghou": "</p>",
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
 "bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
+"bfyjiequshuzuqian": "<li",
+"bfyjiequshuzuhou": "/li>",
+"bfbiaotiqian": "\>",
+"bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
+
 
 
 
