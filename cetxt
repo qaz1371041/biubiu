@@ -51,72 +51,7 @@
 }
 },
 "zidingyi": [
-//具体每一项的字段的说明看BiuBiu影院，公众号发的自定义字段说明那篇文章，这里面的注释都不用删除，编辑完后，全部选中上传就可以了，注释说明不影响使用。
 
-{"name": "黄仓库",
-"url": "http://6662ck.com",
-"User": "空",
-
-//影视分类和翻页后缀部分
-"fenlei": "萝莉$/submit=--------#无码中字$/vodtype/8--------#日本无码$/vodtype/10--------#有码中文$/vodtype/9--------#国产$/vodtype/15--------#欧美成人$/vodtype/21--------#动漫$/vodtype/22--------",
-"houzhui": "---.html",
-
-//影视列表展示部分
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"stui-vodlist__box\"",
-"jiequshuzuhou": "</li>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-
-//搜索部分
-"sousuohouzhui": "/vodsearch/",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-
-//播放页部分
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "id=\"class="stui-player__video clearfix",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "class=\"data\">",
-"zhuangtaihou": "</p>",
-"daoyanqian": "导演：</data>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</data>",
-"zhuyanhou": "</p>",
-"juqingqian": "<style=\"display: none;\"",
-"juqinghou": "</p>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<li",
-"bfyjiequshuzuhou": "/li>",
-"bfbiaotiqian": "\>",
-"bfbiaotihou": "</a>",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
 
 
 
