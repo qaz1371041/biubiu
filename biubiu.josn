@@ -62,6 +62,8 @@
 
 //填写采集站的接口
 "caijizhan": [
+{"name":"皇冠资源","url":"https://hghhh.com/api.php"},
+{"name":"狼友资源","url":"https://www.langyouzy.com/api.php"},
 {"name":"👉 花椒","url":"https://apihjzy.com/api.php"},
 {"name":"乐播资源","url":"https://lbapi9.com/api.php"}, 
 {"name":"老鸭资源","url":"https://api.apilyzy.com/api.php"},
