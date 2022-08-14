@@ -180,10 +180,10 @@
 
 //填写体育直播的网址链接
 "tiyuzhibo": "https://m.zhibo8.net",
-
+"wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
 //填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的。
-"guolvdizhi": "player.css#url=#cnzz.com#51.la",
 
+"guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com#html?v=",
 
 //下面都不用动了，就把上面那些填写完成就OK了。
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
