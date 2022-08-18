@@ -687,65 +687,7 @@
 "bflianjiehou": "\""},
 
  
- {"author": "20200609",
-"name": "干饭影视",
-"url": "http://www.gfysys.com",
-"User": "空",
-"fenlei": "国产剧$/vodshow/2-内地-------#韩国剧$/vodshow/2-韩国-------#香港剧$/vodshow/2-香港-------#台湾剧$/vodshow/2-台湾-------#日本剧$/vodshow/2-日本-------#美国剧$/vodshow/2-美国-------#泰国剧$/vodshow/2-泰国-------#英国剧$/vodshow/2-英国-------#国产动漫$/vodshow/4-内地-------#日本动漫$/vodshow/4-日本-------#美国动漫$/vodshow/4-美国-------#韩国动漫$/vodshow/4-韩国-------#综艺$/vodshow/3--------#喜剧片$/vodshow/1---喜剧-----#爱情片$/vodshow/1---爱情-----#恐怖片$/vodshow/1---恐怖-----#动作片$/vodshow/1---动作-----#科幻片$/vodshow/1---科幻-----#剧情片$/vodshow/1---剧情-----#战争片$/vodshow/1---战争-----#犯罪片$/vodshow/1---犯罪-----#奇幻片$/vodshow/1---奇幻-----#武侠片$/vodshow/1---武侠-----#冒险片$/vodshow/1---冒险-----#悬疑片$/vodshow/1---悬疑-----#惊悚片$/vodshow/1---惊悚-----#古装片$/vodshow/1---古装-----#伦理片$/vodshow/1---伦理-----",
-"houzhui": "---.html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"stui-vodlist__thumb",
-"jiequshuzuhou": "</a>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/",
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "id=\"playlist",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "red;\">",
-"zhuangtaihou": "</span>",
-"daoyanqian": "data\">导演：",
-"daoyanhou": "</p>",
-"zhuyanqian": "data\">主演：",
-"zhuyanhou": "</p>",
-"juqingqian": "sketch\">",
-"juqinghou": "</span>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
+ 
 
 {"name": "555三级片",
 "url": "https://www.5dyhd.com",
@@ -808,8 +750,8 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 
-{
-"name": "如如影视",
+
+{"name": "如如影视",
 "url": "https://www.wei333.com",
 "User": "空",
 "fenlei": "电影$/movie/?v1-#电视剧$/dsj/?v2-#综艺$/zong/?v3-#动漫$/dong/?v4-#伦理片$/lun/?v5-",
@@ -1050,9 +992,9 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""
 },
-{
+
  
-  "name": "瓜皮TV〔时间排序〕",
+ { "name": "瓜皮TV〔时间排序〕",
   "url": "https://guapitv.xyz",
   "tihuan": "cnzz.com",
   "User": "空",
@@ -1115,8 +1057,8 @@
 "bflianjiehou": "\""
 },
 
-{
-  "author":"20220720",
+
+ {"author":"20220720",
   "name": "厂长资源-蓝光",
   "url": "https://qianoo.cn",
   "tihuan": "aliyundrive",
@@ -1180,9 +1122,9 @@
 "bflianjiehou": "\""
 },
 
-{
+
   
-  "name": "影视工厂〔时间排序〕",
+  {"name": "影视工厂〔时间排序〕",
   "url": "https://www.ysgc.tv",
   "User": "空",
   "shouye": "1",
@@ -1243,9 +1185,9 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""
 },
-{
+
   
-  "name": "555电影",
+ {"name": "555电影",
 "url": "https://www.xawqxh.net",
   "tihuan": "cnzz.com",
   "User": "User-Agent:Dart/2.14 (dart:io)",
@@ -1425,8 +1367,8 @@
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
-{
-  "author": "sober",
+
+  {"author": "sober",
   "name": "私人影院",
   "url": "https://soumk.com",
   "tihuan": "cnzz.com",
@@ -1606,8 +1548,8 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""}
 ,
-{
-  "name": "UM影院",
+
+  {"name": "UM影院",
   "url": "https://www.umkan.com/",
   "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
@@ -1731,10 +1673,10 @@
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""},
 
-{
+
   
   
-  "name": "在线之家〔时间排序〕",
+ {"name": "在线之家〔时间排序〕",
   "url":"https://zxzj.vip",
   "User": "空",
   "shouye": "1",
@@ -1795,8 +1737,8 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""
 },
-{
-"name": "LIBVIO",
+
+{"name": "LIBVIO",
 "url": "https://www.libvio.me",
 "User": "空",
 
@@ -1857,8 +1799,8 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""
 },
-{
-"name": "COKEMV",
+
+{"name": "COKEMV",
 "url": "https://cokemv.me",
 "User": "空",
 "fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#动画电影$/vodshow/41--------#抖音电影$/vodshow/5--------#动作片$/vodshow/6--------#喜剧片$/vodshow/7--------#爱情片$/vodshow/8--------#科幻片$/vodshow/9--------#恐怖片$/vodshow/10--------#剧情片$/vodshow/11--------#战争片$/vodshow/12--------#国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#犯罪片$/vodshow/23--------",
@@ -1920,7 +1862,7 @@
 },
 
 
-"name":"饭团",
+{"name":"饭团",
 "url":"http://www.fantuantva.com/",
 "User":"User-Agent:Dart/2.14 (dart:io)","shouye":"1",
 "fenlei":"电影$/t/dianying/page/#大陆剧$/t/lianxuju/page/#国产剧$/t/guochanju/page/#综艺$/t/zongyi/page/#动漫$/t/dongman/page/",
