@@ -2,40 +2,47 @@
 //主页接口支持以下5种接口格式，只要后缀是以下5种的格式，都是可以直接复制过来使用的。最后一个接口结尾不加 , 号。
 {"zhuyejiekou": [  
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
-{"name":"9999","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"特狗影视","url":"https://www.tegouys.com/xgapp.php/v2/"}, 
-{"name":"优众影视〕","url":"http://121.205.88.194:7878/xgtv.php/v1/"},
+{"name":"9999","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"月儿影视","url":"https://yue52.xyz/api.php/v1.vod"},
 {"name":"佑尘云影视","url":"http://v.i7yc.cn/api.php/v1.vod"},
 
-{"name":"段友影视","url":"https://shangjihuoke.com/api.php/tv.vod"},
-
-
+{"name":"i酷","url":"http://121.205.88.194:7878/xgtv.php/v1/"},
+{"name":"苹果采集","url":"https://xg.weiduomei.cc/xgapp.php/v2/"},
 {"name":"迷你库","url":"http://www.miniku.cc/xgapp.php/v1/"},
+
 {"name": "9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"name":"星辰TV","url":"http://www.xingchentv.cn/mogai_api.php/v1.vod"},
-{"name":"迪迪","url":"http://dd88.icu:6080/xgapp.php/v2/"},
+
 {"name":"悟空影院","url":"http://dapi.pntao.com/api.php/v1.vod"},
-{"name":"天诚影视","url":"http://tcspvip.cn/api.php/v1.vod"},
+
 {"name":"沭阳影视","url":"http://zjr.jurentiaodeng.com/api.php/v1.vod"}, 
-{"name":"U5影视","url":"https://appx.uy07.com/api.php/v1.vod"},
+
+
+{"name":"枇杷影院","url":"https://www.pipamovie.com/api.php/v1.vod"},
+
 {"name":"影库","url":"https://yingkudy.com/lvdou_api.php/v1.vod"},
 {"name":"爱酷影视","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
-{"name":"益达影院","url":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
+
+
 {"name":"爱电影","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
 {"name":"淘剧社","url":"https://app.shuhai99.com/api.php/v1.vod"},
 {"name":"兜里TV","url":"https://app.douli.cc/api.php/v1.vod"},
+
 {"name":"狐影TV","url":"https://www.foxhtv.com/api.php/v1.vod"},
-{"name":"佳佳影视","url":"https://www.jiajia.pub/api.php/v1.vod"},
+{"name":"海玉影视","url":"https://tv2.hykjtv.cn/api.php/v1.vod"},
+
 {"name":"玖卿乐播","url":"https://vod.nqcode.cn/api.php/v1.vod"},
-{"name":"可乐影视","url":"http://klyingshi.com/api.php/v1.vod"},
+
 {"name":"52看剧","url":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod"},
 {"name":"521看剧","url":"http://521kanju.com/api.php/v1.vod"},
 {"name":"铭轩影视","url":"http://lz0716.com/api.php/v1.vod"},
-{"name":"诺诺影视","url":"http://nnys.cuicanys.cn/lvdou_api.php/v1.vod"},
+
 {"name":"懒猫影视","url":"https://lanmao.lanmaoymw.cn/api.php/v1.vod"},
+
 {"name":"群鑫影视","url":"http://www.qunxinys.com/api.php/v1.vod"},
 {"name":"万能影院","url":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
+
 {"name":"小七影视","url":"https://www.xiaoqi0.cn/cuican_api.php/v1.vod"},
 {"name":"夕阳影视","url":"http://cms.seo-tv.work/mogai_api.php/v1.vod"},
 {"name":"鑫总资源","url":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
@@ -44,10 +51,13 @@
 {"name":"豆芽视频","url":"http://bdintv.cn/lvdou_api.php/v1.vod"}, 
 {"name": "可乐影视","url": "http://klyingshi.com/api.php/v1.vod"},
 {"name":"万能影院","url":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
+{"name":"夕阳影视","url":"http://cms.seo-tv.work/mogai_api.php/v1.vod"}, 
+{"name":"小七影视","url":"https://www.xiaoqi0.cn/cuican_api.php/v1.vod"},
 {"name":"爱酷影视","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
 {"name":"美剧范","url":"http://ttzmz.net/api.php/v1.vod"},
 {"name":"冷视TV","url":"https://len.tv/api.php/v1.vod"},
 {"name":"阿里影视","url":"http://aliys.cn:90/api.php/v1.vod"},
+{"name":"段友影视","url":"http://js.66app.me/api.php/app/"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"},
 {"name":"艾特影视","url":"https://www.aitee.cc/api.php/v1.vod"},
 {"name":"QC影视","url":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
@@ -55,7 +65,6 @@
 {"name":"筑梦云影视","url":"http://wzys.scp00.cn/api.php/v1.vod"},
 {"name":"一站VIP影视","url":"https://www.dpp8.xyz/api.php/v1.vod"},
 {"name":"看剧吧","url":"http://app.ishen520.com/api.php/v1.vod"}], 
-
 
 //填写采集站的接口
 "caijizhan": [
@@ -166,7 +175,7 @@
 {"name": "HY体育","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIzNTYmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"},  
 {"name": "秀儿","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTE2NjMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"}],
 //主解析是JSON直链的，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
-"zhujiexi":"https://jx.dgdgg.cn/api/?key=Os908eQBVXCwdvBlI7&url=#http://jx1920.chwain.com/home/api?type=ys&uid=87711&key=bdrsuvzBMQTVWX0567&url=#https://jisu.rongxingvr.top/api/rxm3u8.php?key=2eCcARLRUqfPeuoX3B&url=#http://newjiexi.gotka.top/keyu3.php?url=#https://play.fuqizhishi.com/gang0823/API.php?appkey=QQ172598364&url=#http://id190.tpddns.cn:81/jsonch/?url=#https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=#https://www.fantuantva.com/jiexi/jiexi-gf/?url=#https://jx.ppflv.com/?url=#https://www.1717yun.com/1717yun/?url=#https://www.8090g.cn/?url=#https://www.playm3u8.cn/jiexi.php?url=#https://www.pangujiexi.cc/jiexi.php?url=#https://www.yemu.xyz/?url=#https://play.fuqizhishi.com/gang0823/API.php?appkey=QQ172598364&url=", 
+"zhujiexi":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=#https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=#https://play.fuqizhishi.com/jx/API.php?appkey=zhitigonggeixiaobai4567891&url=#https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url=#https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url=#https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url=#http://47.242.89.48/video/xiaoshu.php?action=config&app=analysis2&url=#https://hc.izny.cn/json.php?url=#http://124.222.68.182/jiexi/3kJX.php/?url=#https://hc.izny.cn/json.php?url=#http://211.99.99.236:4567/jhjson/ceshi.php?url=#https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=#https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=#http://id190.tpddns.cn:81/jsonch/?url=#http://103.40.240.46/jh/?url=", 
 //备用解析是常规格式的解析，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
 "beiyongjiexi": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url=#https://jx.m3u8.tv/jiexi/?url=#https://jx.m3u8.pw/?url=https://jx.bozrc.com:4433/player/?url=#https://za.kuanjv.com/?url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=#https://humaosp.com/json.php?url=#https://json.5lp.net/json.php?url=#https://jhpc.manduhu.com/j1217.php?url=#http://103.40.240.46/jh/?url=#https://za.kuanjv.com/?url=#https://jhpc.manduhu.com/j1217.php?url=#http://81.70.242.138:8089/GetVideoJson?url=#http://user.seakee.cn/system/api?uid=88901347&token=3148408605aea4c040057d6d5564f3b4&url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=#https://www.nxflv.com/?url=#http://m2090.com/?url=#https://jx.parwix.com:4433/player/?url=#https://lecurl.cn/?url=#https://jx.parwix.com:4433/player/?url=#https://lecurl.cn/?url=#https://2.08bk.com/?url=#https://okjx.cc/?url=#https://z1.m1907.cn/?a=#https://www.administratorw.com/admin.php?url=#https://jx.xmflv.com/?url=#http://jx5.178du.com/p1/?url=#https://jx.xuanqi.pro/?url=#https://www.nxflv.com/?url=#https://svip.bljiex.cc/?v=",
 "dianshizhibo": "https://raw.githubusercontents.com/qaz1371041/biubiu/master/biu/tv/.php",
