@@ -12,14 +12,14 @@
 "zhuyejiekou":[
 
 {"name":"优众影视〕","url":"http://121.205.88.194:7878/xgtv.php/v1/"},
-
 {"name":"9999","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"i酷","url":"http://121.205.88.194:7878/xgtv.php/v1/"},
 {"name":"影库","url":"https://yingkudy.com/lvdou_api.php/v1.vod"},
-
 {"name":"铭轩影视","url":"http://lz0716.com/api.php/v1.vod"},
 
-
+{"name":"大猫影视","url":"http://app.ishen520.com/api.php/v1.vod"},
+{"name":"爱麻花影视","url":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
+{"name":"HG影视","url":"http://bbq.1006.tk/api.php/v1.vod"},
 
 {"name":"佑尘云影视","url":"http://v.i7yc.cn/api.php/v1.vod"},
 {"name":"鑫总资源","url":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
@@ -664,16 +664,15 @@
     "bflianjieqian": "href=\"",
     "bflianjiehou": "\""},
 
-{"name": "香蕉视频",
+{"name": "免费香蕉视频",
   "url": "https://xx8888.cc/",
-  //"http://xjxj88.xyz",
   "tihuan": "cnzz.com", 
   "User": "空", 
   "shouye": "1",
-
+ 
   "fenlei": "人妻熟女$/index.php/vod/type/id/1/page/#偷拍自拍$/index.php/vod/type/id/2/page/#港韩情色$/index.php/vod/type/id/3/page/#丝袜制服$/index.php/vod/type/id/4/page/#清纯少女$/index.php/vod/type/id/5/page/#辣妹大奶$/index.php/vod/type/id/34/page/#女同专属$/index.php/vod/type/id/35/page/#素人出演$/index.php/vod/type/id/36/page/#角色扮演$/index.php/vod/type/id/37/page/#成人动漫$/index.php/vod/type/id/38/page/#变态另类$/index.php/vod/type/id/39/page/", 
   "houzhui": ".html",
-
+ 
   "shifouercijiequ": "0", 
   "jiequqian": "空",
   "jiequhou": "空", 
@@ -685,7 +684,7 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"", 
   "lianjiehou": "\"", 
-
+ 
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/voddetail/", 
@@ -704,22 +703,22 @@
   "ssbiaotihou": "空",
   "sslianjieqian": "空",
   "sslianjiehou": "空",
-
+ 
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"sort-item", 
+  "bfjiequshuzuqian": "class=\"module-items", 
   "bfjiequshuzuhou": "</div>", 
-
-  "zhuangtaiqian": "状态：</span>",
+ 
+  "zhuangtaiqian": " class=\"module-item-caption\">",
   "zhuangtaihou": "</div>",
-  "daoyanqian": "导演：</span>",
+  "daoyanqian": "导演:",
   "daoyanhou": "</div>",
   "zhuyanqian": "主演：</span>",
   "zhuyanhou": "</div>",
   "juqingqian": "剧情：</span>",
   "juqinghou": "</div>",
-
+ 
   "bfyshifouercijiequ": "0", 
   "bfyjiequqian": "空", 
   "bfyjiequhou": "空", 
@@ -979,142 +978,6 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""
 },
-//地址 https://ju54321.com  https://juyouav.com  https://avjs.vip  https://juyouav.com  https://mdav.vip
-
-{"name": "新香蕉",
-"url": "https://www.qq54321.vip/",
-"tihuan": "cnzz.com",
-"User": "空",
- "shouye": "1",
-
-"fenlei": "水果解说$/avjs/index.php/sgp/AVJS-#中文综合$/xjzy/index.php/xjzy/zhongwenzonghe-#中文无码$/xjzy/index.php/xjzy/zhongwenwuma-#中文近亲$/xjzy/index.php/xjzy/zhongwenjingqing-#中文护士$/xjzy/index.php/xjzy/zhongwenhushi-#中文师生$/xjzy/index.php/xjzy/zhongwenshisheng-#中文强奸$/xjzy/index.php/xjzy/zhongwenqiangjian-#国产自拍$/xjzy/index.php/xjzy/guochanzipai-#美女主播$/xjzy/index.php/xjzy/meinvzhubo-#三级伦理$/xjzy/index.php/xjzy/sanjizonghe-
-
-#亚洲ＡＶ$/cq/index.php/2k/yazhou-#自拍偷拍$/cq/index.php/2k/zipaitoupai-#超清传媒$/cq/index.php/2k/chaoqingchuanmei-#3D动漫$/cq/index.php/2k/3Ddongman-#欧美ＡＶ$/cq/index.php/2k/oumei-#乱伦人妻$/cq/index.php/2k/luanlunrenqi-#丝袜制服$/cq/index.php/2k/siwazhifu-#直播录播$/cq/index.php/2k/zhibolubo-#SM另类$/cq/index.php/2k/SMlinglei-#超清三级$/cq/index.php/2k/chaoqingsanji-
-
-#CN麻豆原创$/gccm/index.php/md/madouyuanchuang-#91制片厂$/gccm/index.php/md/91zhipianchang/-#天美传媒$/gccm/index.php/md/tianmeichuanmei-#蜜桃传媒 $/gccm/index.php/md/mitaochuanmei-#皇家华人$/gccm/index.php/md/huangjiahuaren-#星空传媒$/gccm/index.php/md/xingkongchuanmei-#精东影业$/gccm/index.php/md/jingdongyingye-#乐播传媒$/gccm/index.php/md/lebochuanmei-#乌鸦传媒$/gccm/index.php/md/wuyachuanmei-#兔子先生$/gccm/index.php/md/tuzixiansheng-#杏吧原创$/gccm/index.php/md/xingbayuanchuang-#mini传媒$/gccm/index.php/md/minichuanmei-#大象传媒$/gccm/index.php/md/daxiangchuanmei-#开心鬼传媒$/gccm/index.php/md/kaixinguichuanmei-#PsychoPorn$/gccm/index.php/md/PsychoPorn-#糖心Vlgo$/gccm/index.php/md/tangxinVlgo-
-
-#99国产自拍$//99re/index.php/99re/guochanzipai-#肛交$/99re/index.php/99re/gangjiao-#口爆颜射$/99re/index.php/99re/koubaoyanshe-#潮吹$/99re/index.php/99re/chaochui-#会员认证作品$//99re/index.php/99re/jiujiurehuiyuanrenzhengzuopin-#制服丝袜$/99re/index.php/99re/zhifusiwa-#一本道$/99re/index.php/99re/yibendao-#高清$/99re/index.php/99re/gaoqing-#日本有码$/99re/index.php/99re/ribenyouma-#加勒比$/99re/index.php/99re/jialebi-#日本无码$/99re/index.php/99re/ribenwuma-#李宗瑞全集$/99re/index.php/99re/lizongruiquanji-#中文字幕$//99re/index.php/99re/zhongwenzimu-#欧美$/99re/index.php/99re/oumei-#东京热$/99re/index.php/99re/dongjingre-#小格式综合$/99re/index.php/99re/xiaogeshizonghe-#女主播系列$/99re/index.php/99re/hanguonvzhuboxilie-#成人动漫$/99re/index.php/99re/chengrendongman-#SM性虐$/99re/index.php/99re/SMxingnue-#韩国综合$/99re/index.php/99re/hanguozonghe-
-
-#FC国产自拍$/fcw/index.php/fcw/guochanzipai-#VIP专区$/fcw/index.php/fcw/VIPzhuanqu-#偷拍系列$/fcw/index.php/fcw/toupaixilie-#日本有码$/fcw/index.php/fcw/ribenyouma-#日本无码$/fcw/index.php/fcw/ribenwuma-#成人动漫$/fcw/index.php/fcw/chengrendongman-#韩国综合$/fcw/index.php/fcw/hanguozonghe-#VR专区$/fcw/index.php/fcw/VRzhuanqu-#欧美$/fcw/index.php/fcw/oumei-",
-
-"houzhui": ".html",
-"shifouercijiequ": "1",
-"jiequqian": "class=\"list-videos\"",
-"jiequhou": "class=\"pagination\"",
-"jiequshuzuqian": "<a",
-"jiequshuzuhou": "</a>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/?m=search-type-so-0.html&TXT=",
-"sousuohou": "&submit=",
-"sousuohouzhui": "/detail/",
-"ssmoshi": "1",
-"sousuoshifouercijiequ": "0",
-"jspic": "空",
-"jsname": "空",
-"jsid": "空",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "class=\"uk-width-1-5",
-"ssjiequshuzuhou": "</a>",
-"sstupianqian": "data-original=\"",
-"sstupianhou": "\"",
-"ssbiaotiqian": "title=\"",
-"ssbiaotihou": "\"",
-"sslianjieqian": "href=\"",
-"sslianjiehou": "\"",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"item\">更新",
-
-//"bfjiequshuzuqian": "class=\"read-btn uk-margin-bottom",
-"bfjiequshuzuhou": "猜你喜欢",
-"zhuangtaiqian": "类型：",
-"zhuangtaihou": "</div>",
-"daoyanqian": "更新：",
-"daoyanhou": "</div>",
-"zhuyanqian": "主演：",
-"zhuyanhou": "</div>",
-"juqingqian": "片名：",
-"juqinghou": "</div>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
-
-{"name": "黄仓库",
-"url": "http://2225ck.cc/",  //http://663ck.cc   http://749ck.cc  http://327ck.cc
-"tihuan": "cnzz.com", 
-"User": "空",
- "shouye": "1",
-
-"fenlei": "日韩AV$/vodtype/1-#国产系列$/vodtype/2-#欧美$/vodtype/3-#成人动漫$/vodtype/4-#无码中文$/vodtype/8-#有码中文$/vodtype/9-#日本无码$/vodtype/10-#日本有码$/vodtype/7-#国产视频$/vodtype/15-#欧美高清$/vodtype/21-#动漫剧情$/vodtype/22-",
-"houzhui": ".html",
-
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"stui-vodlist__box",
-"jiequshuzuhou": "<span",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/detail/",
-"ssmoshi": "1",
-"sousuoshifouercijiequ": "0",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"stui-vodlist__thumb",
-//"bfjiequshuzuqian": "class=\"stui-vodlist clearfix",
-"bfjiequshuzuhou": "</div>",
-"zhuangtaiqian": "时间：",
-"zhuangtaihou": "<div",
-"daoyanqian": "更新时间:<span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演:<span>",
-"zhuyanhou": "</p>",
-"juqingqian": "剧情:<span>",
-"juqinghou": "</p>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
 
 
 {"name": "体育直播吧",
