@@ -1,7 +1,7 @@
 {"name": "黄仓库",
 
 //"url": "https://hscangku.com",
-"url": "http://2253ck.cc/", 
+"url": "http://dhsck.cc/", 
 "tihuan": "cnzz.com", 
 "User": "空",
  "shouye": "1",
