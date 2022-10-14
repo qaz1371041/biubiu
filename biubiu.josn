@@ -37,7 +37,7 @@
 
 {"name":"QC影视","url":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}], 
-], 
+
 
 //填写采集站的接口
 "caijizhan": [
