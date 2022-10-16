@@ -257,7 +257,7 @@
 "bfjiequshuzuqian": "class=\"mo-movs-item",
 "bfjiequshuzuhou": "</ul>",
 "zhuangtaiqian": "分类:&nbsp;</span>",
-"zhuangtaihou": "</span>",
+"zhuangtaihou": "</li>",
 "daoyanqian": "导演:&nbsp;</span>",
 "daoyanhou": "</li>",
 "zhuyanqian": "主演:&nbsp;</span>",
