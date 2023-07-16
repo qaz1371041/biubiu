@@ -48,10 +48,10 @@
 {"name": "HY体育","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIzNTYmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"},  
 {"name": "秀儿","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTE2NjMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"}],
 //主解析是JSON直链的，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
-"zhujiexi":"https://api.tyun77.cn/api.php/provide/parserUrl?url=#", 
+"zhujiexi":"https://api.tyun77.cn/api.php/provide/parserUrl?url=#http://27.124.4.42:4567/jhjson/ceshi.php?url=", 
 //备用解析是常规格式的解析，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
-"beiyongjiexi": "https://jx.777jiexi.com/player/?url=#https://jx.jsonplayer.com/player/?url=#https://jx.m3u8.tv/jiexi/?url=#https://jx.xmflv.com/?url=#https://www.pangujiexi.com/pangu/?url=#https://vip.8090jiexi.com:520/jiexi/?url=",
-"dianshizhibo": "https://raw.githubusercontents.com/qaz1371041/biubiu/master/biu/tv/.php",
+"beiyongjiexi": "https://jx.777jiexi.com/player/?url=#https://jx.xmflv.com/?url=#ttps://jx.jsonplayer.com/player/?url=#https://jx.iztyy.com/svip/?url=#https://okjx.cc/?url=#https://www.pangujiexi.com/pangu/?url=",
+"dianshizhibo": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 //填写体育直播的网址链接
 "tiyuzhibo": "https://m.zhibo8.net",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
