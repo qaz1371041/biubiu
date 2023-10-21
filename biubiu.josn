@@ -2,9 +2,7 @@
 //主页接口支持以下5种接口格式，只要后缀是以下5种的格式，都是可以直接复制过来使用的。最后一个接口结尾不加 , 号。
 {"zhuyejiekou": [  
 
-{"name":"影视之家","url":"http://yszj.cm/xgapp.php/v2/"}, 
-
-{"name":"F7好看剧","url":"https://www.f7hkj.com/api.php/app/"}, 
+{"name":"宝仙HD","url":"https://webdillo.com/api.php/app/"}, 
 {"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
 {"name":"霹雳影视","url":"https://plyingshi.com/api.php/v1.vod"},
 {"name":"真爱影视","url":"https://www.chiguafilm.com/api.php/v1.vod"},
